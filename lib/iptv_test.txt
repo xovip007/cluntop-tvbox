@@ -1,6 +1,6 @@
 
 央视频道,#genre#
-CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1781517600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-7e37b2be00e6f5b2fd855f8ef0ea9579&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•5『线路1』
+CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1781521200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-03997a6cdd3aa9820dc858b5acbb23f8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•5『线路1』
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8$LR•IPV4•5『线路2』
 CCTV-4K,http://173.208.212.130:8181/720p/cctv4k.m3u8$LR•IPV4•5『线路3』
 CCTV-4K,http://192.151.150.154/live/cctv4k.m3u8$LR•IPV4•5『线路4』
@@ -2531,7 +2531,7 @@ XXXXXXXXX粤,http://lxajh.top/tv/douyu.php?id=8912325$LR•IPV4
 航拍中国第一季,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8$LR•IPV4
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8$LR•IPV4
 地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8$LR•IPV4
-纪录,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b0bb90a5635ecfa85a1a868e3fe1260a$LR•IPV4•120『线路1』
+纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=33d7a3f1c7ee1546c6f14ce801eca25c$LR•IPV4•120『线路1』
 纪录,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?$LR•IPV6•120『线路2』
 纪录,https://www.nettvpro.xyz/player/xgplayer.html?url=https://play.kankanlive.com/live/1698423397390920.m3u8$LR•IPV4•120『线路3』
 纪录,https://0472.org/hls/cgtnd.m3u8$LR•IPV4•120『线路4』
@@ -3065,7 +3065,7 @@ CCTV兵器,http://173.208.212.130:8181/720p/gfjs.m3u8$LR•IPV4•6『线路3』
 CCTV兵器,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs$LR•IPV4•6『线路4』
 CCTV兵器,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8$LR•IPV6•6『线路5』
 CCTV兵器,http://107.150.60.122/live/gfjs.m3u8$LR•IPV4•6『线路6』
-CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1781517600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-08e1754dfecf3f919063cdcddab7ebb9&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•274『线路1』
+CCTV,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1781521200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-47815941dd654732179448ffd6f4c9d5&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•274『线路1』
 CCTV,http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•274『线路2』
 CCTV,http://183.196.25.171:808/hls/11/index.m3u8$LR•IPV4•274『线路3』
 CCTV,http://183.196.25.171:808/hls/93/index.m3u8$LR•IPV4•274『线路4』
