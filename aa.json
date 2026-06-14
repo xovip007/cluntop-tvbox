@@ -1,8 +1,22 @@
 {
 	"sites": [
 		{
+			"key": "PTT",
+			"name": "PTT",
+			"type": 3,
+			"api": "csp_ProxySpider",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1,
+			"ext": {
+				"class": "PTT"
+			}
+		},
+		{
 			"key": "cctv",
-			"name": "cctv",
+			"name": "CCTV",
 			"type": 1,
 			"api": "http://zhangqun19.serv00.net/cctv.php",
 			"style": {
@@ -12,8 +26,55 @@
 			"changeable": 1
 		},
 		{
+			"key": "小苹果",
+			"name": "小苹果",
+			"type": 4,
+			"api": "http://zhangqun19.serv00.net/pingguo.php",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
+		{
+			"key": "油管so",
+			"name": "油管视频",
+			"type": 3,
+			"api": "csp_ProxySpider",
+			"searchable": 1,
+			"quickSearch": 1,
+			"ext": {
+				"class": "Ytdl",
+				"ext": {
+					"youtube_txt": "./lib/youtube.json"
+				},
+				"style": {
+					"type": "rect",
+					"ratio": 1.33
+				}
+			},
+			"filterable": 1
+		},
+		{
+			"key": "油管webjartv",
+			"name": "油管网页",
+			"type": 3,
+			"api": "csp_ProxySpider",
+			"searchable": 1,
+			"quickSearch": 1,
+			"ext": {
+				"class": "YoutubeSpidertv",
+				"ext": "./lib/youtube.json"
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"filterable": 1
+		},
+		{
 			"key": "油管webjar",
-			"name": "油管webjar",
+			"name": "油管网页2",
 			"type": 3,
 			"api": "csp_ProxySpider",
 			"searchable": 1,
@@ -23,31 +84,28 @@
 				"ratio": 1.33
 			},
 			"ext": {
-				"class": "YoutubeSpider1",
-				"ext": "./lib/youtube.json"
+				"class": "YoutubeSpider1"
 			},
 			"filterable": 1
 		},
 		{
-			"key": "油管jar",
-			"name": "油管jar",
+			"key": "哔哩so",
+			"name": "哔哩哔哩",
 			"type": 3,
 			"api": "csp_ProxySpider",
-			"searchable": 1,
-			"quickSearch": 1,
+			"changeable": 1,
+			"ext": {
+				"class": "Bilibili",
+				"ext": "./lib/bilibili.json"
+			},
 			"style": {
 				"type": "rect",
 				"ratio": 1.33
-			},
-			"ext": {
-				"class": "YoutubeSpider",
-				"ext": "./lib/youtube.json"
-			},
-			"filterable": 1
+			}
 		},
 		{
-			"key": "捡的音乐新",
-			"name": "捡的音乐新",
+			"key": "华人so",
+			"name": "华人视频",
 			"type": 3,
 			"api": "csp_ProxySpider",
 			"searchable": 1,
@@ -57,7 +115,7 @@
 				"ratio": 1.33
 			},
 			"ext": {
-				"class": "Music1"
+				"class": "Hua"
 			},
 			"filterable": 1
 		},
@@ -91,26 +149,10 @@
 		},
 		{
 			"key": "本地服务管理",
-			"name": "本地服务管理",
+			"name": "服务管理",
 			"type": 3,
 			"api": "csp_ProxySpider",
 			"ext": "ServerManager"
-		},
-		{
-			"key": "本地数据库",
-			"name": "本地数据库",
-			"type": 3,
-			"api": "csp_ProxySpider",
-			"searchable": 1,
-			"quickSearch": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"ext": {
-				"class": "Sjk"
-			},
-			"filterable": 1
 		},
 		{
 			"key": "HuyaLive",
@@ -134,56 +176,8 @@
 			"filterable": 0,
 			"ext": {
 				"class": "TxtLiveSpider",
-				"ext": "/storage/emulated/0/lz/虎牙全集.txt"
+				"ext": "./lib/虎牙全集.txt"
 			}
-		},
-		{
-			"key": "PY聚合",
-			"name": "PY聚合",
-			"type": 3,
-			"api": "csp_ProxySpider",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"class": "PY",
-				"ext": "py"
-			}
-		},
-		{
-			"key": "JS聚合",
-			"name": "JS聚合",
-			"type": 3,
-			"api": "csp_ProxySpider",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"class": "PY",
-				"ext": "js"
-			}
-		},
-		{
-			"key": "听书go",
-			"name": "听书go",
-			"type": 4,
-			"api": "http://127.0.0.1:1988/lb?lb=11",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "小苹果",
-			"name": "小苹果",
-			"type": 4,
-			"api": "http://zhangqun19.serv00.net/pingguo.php",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
 		},
 		{
 			"key": "采集全集",
@@ -197,22 +191,25 @@
 			"changeable": 1,
 			"ext": {
 				"class": "CJJH",
-				"ext": "0"
+				"ext": "./lib/cj.json"
 			}
 		},
 		{
-			"key": "油管代理",
-			"name": "油管代理",
+			"key": "捡的音乐新",
+			"name": "捡的音乐",
 			"type": 3,
 			"api": "csp_ProxySpider",
+			"searchable": 1,
+			"quickSearch": 1,
 			"style": {
 				"type": "rect",
 				"ratio": 1.33
 			},
-			"changeable": 1,
 			"ext": {
-				"class": "DL"
-			}
+				"class": "Music1",
+				"ext": "./lib/jdyy.json"
+			},
+			"filterable": 1
 		},
 		{
 			"key": "音乐实验",
@@ -227,6 +224,20 @@
 			"ext": {
 				"class": "AiTingSpider"
 			}
+		},
+		{
+			"key": "听书so",
+			"name": "听书达人",
+			"type": 3,
+			"api": "csp_ProxySpider",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"ext": {
+				"class": "TingShu"
+			},
+			"changeable": 1
 		},
 		{
 			"key": "三三小说",
@@ -257,6 +268,20 @@
 			}
 		},
 		{
+			"key": "阅读源so",
+			"name": "阅读资源",
+			"type": 3,
+			"api": "csp_ProxySpider",
+			"ext": {
+				"class": "Lego",
+				"ext": "./lib/sources.json"
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			}
+		},
+		{
 			"key": "阅读助手",
 			"name": "阅读助手",
 			"type": 3,
@@ -271,215 +296,18 @@
 			}
 		},
 		{
-			"key": "本地小说",
+			"key": "本地小说so",
 			"name": "本地小说",
 			"type": 3,
 			"api": "csp_ProxySpider",
+			"changeable": 1,
 			"style": {
 				"type": "rect",
 				"ratio": 1.33
 			},
-			"changeable": 1,
 			"ext": {
 				"class": "NovelBd"
 			}
-		},
-		{
-			"key": "数据暴露",
-			"name": "数据暴露",
-			"type": 4,
-			"api": "http://127.0.0.1:1988/lb?lb=16",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "文件播放lz",
-			"name": "文件播放lz",
-			"type": 3,
-			"api": "csp_ProxySpider",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1,
-			"ext": {
-				"class": "FileSpider",
-				"ext": "/storage/emulated/0/lz/wj/直播/"
-			}
-		},
-		{
-			"key": "PTT",
-			"name": "PTT",
-			"type": 3,
-			"api": "csp_ProxySpider",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1,
-			"ext": {
-				"class": "PTT"
-			}
-		},
-		{
-			"key": "服务器油管go",
-			"name": "服务器油管go",
-			"type": 4,
-			"api": "http://127.0.0.1:1988",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "油管清单播放",
-			"name": "油管清单播放",
-			"type": 4,
-			"api": "http://127.0.0.1:1988/lb?lb=9",
-			"ext": "/storage/emulated/0/lz/json/油管/",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "影视清单播放",
-			"name": "影视清单播放",
-			"type": 4,
-			"api": "http://127.0.0.1:1988/lb?lb=9",
-			"ext": "/storage/emulated/0/lz/json/影视/",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "其他清单播放",
-			"name": "其他清单播放",
-			"type": 4,
-			"api": "http://127.0.0.1:1988/lb?lb=9",
-			"ext": "/storage/emulated/0/lz/json/其他/",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "油管文件播放",
-			"name": "油管文件播放",
-			"type": 4,
-			"api": "http://127.0.0.1:1988/lb?lb=8",
-			"ext": "/storage/emulated/0/lz/wj/油管/",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "影视文件播放",
-			"name": "影视文件播放",
-			"type": 4,
-			"api": "http://127.0.0.1:1988/lb?lb=8",
-			"ext": "/storage/emulated/0/lz/wj/影视/",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "直播文件播放",
-			"name": "直播文件播放",
-			"type": 4,
-			"api": "http://127.0.0.1:1988/lb?lb=8",
-			"ext": "/storage/emulated/0/lz/wj/直播/",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "音乐文件播放",
-			"name": "音乐文件播放",
-			"type": 4,
-			"api": "http://127.0.0.1:1988/lb?lb=8",
-			"ext": "/storage/emulated/0/lz/wj/音乐/",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "欧乐影院",
-			"name": "欧乐影院",
-			"type": 4,
-			"api": "http://127.0.0.1:1988/lb?lb=4",
-			"searchable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "采集集合",
-			"name": "采集集合",
-			"type": 1,
-			"api": "http://127.0.0.1:1988/lb?lb=3",
-			"searchable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "短剧",
-			"name": "短剧",
-			"type": 4,
-			"api": "http://127.0.0.1:1988/lb?lb=2",
-			"searchable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
-			"key": "哔哩lz",
-			"name": "哔哩lz",
-			"type": 3,
-			"api": "csp_ProxySpider",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1,
-			"ext": {
-				"class": "Bilibili"
-			}
-		},
-		{
-			"key": "哔哩go",
-			"name": "哔哩go",
-			"type": 4,
-			"api": "http://127.0.0.1:1988/lb?lb=10",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
 		}
 	],
 	"headers": [
@@ -788,6 +616,24 @@
 	],
 	"rules": [
 		{
+			"name": "YouTube",
+			"hosts": [
+				"youtube.com",
+				"www.youtube.com",
+				"m.youtube.com",
+				"youtu.be",
+				"googlevideo.com",
+				"ytimg.com",
+				"i.ytimg.com",
+				"ggpht.com",
+				"yt3.ggpht.com",
+				"googleapis.com",
+				"youtubei.googleapis.com",
+				"gstatic.com",
+				"nhacmp3youtube.com"
+			]
+		},
+		{
 			"name": "proxy",
 			"hosts": [
 				"raw.githubusercontent.com",
@@ -986,8 +832,8 @@
 			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 		}
 	],
-	"spider": "./jar/pro.jar;md5;./jar/pro.jar.md5",
 	"disabled_wallpaper": "./img/0.jpg",
 	"wallpaper": "./img/0.jpg",
-	"logo": "./img/loadin.gif"
+	"spider": "./jar/pro.jar",
+	"logo": "./img/vox.gif"
 }
