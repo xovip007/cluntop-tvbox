@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1781478000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-6db280b1f8dcc784d3beb3e2aca35622&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•6『线路1』
+http://198.204.240.250:82/live/cctv4k.m3u8$LR•IPV4•6『线路1』
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
-http://198.204.240.250:82/live/cctv4k.m3u8$LR•IPV4•6『线路2』
+http://173.208.212.130:8181/720p/cctv4k.m3u8$LR•IPV4•6『线路2』
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
-http://173.208.212.130:8181/720p/cctv4k.m3u8$LR•IPV4•6『线路3』
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1781478000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-6db280b1f8dcc784d3beb3e2aca35622&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•6『线路3』
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1781456400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-a1e2ff7a7dae821fd707f58b06326bb0&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•6『线路4』
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1781488800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-73083660f0299954c8f79e3f1d2b1263&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•6『线路4』
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
 http://192.151.150.154/live/cctv4k.m3u8$LR•IPV4•6『线路5』
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
@@ -46,33 +46,35 @@ https://vd3.bdstatic.com/mda-kmkh9zy2b3gnx4bq/mda-kmkh9zy2b3gnx4bq.mp4?pd=19&vt=
 #EXTINF:-1 tvg-name="卖拐" group-title="经典小品",卖拐
 https://vd3.bdstatic.com/mda-mdgia7vnkscvxh6d/v1-hknm/hd/mda-mdgia7vnkscvxh6d.mp4?pd=19&vt=1$LR•IPV4
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8$LR•IPV4•14『线路1』
+https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8$LR•IPV4•15『线路1』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-http://rihou.cc:555/tv/[Pd]无线功夫$LR•IPV4•14『线路2』
+http://rihou.cc:555/tv/[Pd]无线功夫$LR•IPV4•15『线路2』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-http://43.251.226.89:8080/play/878.m3u8$LR•IPV4•14『线路3』
+http://43.251.226.89:8080/play/878.m3u8$LR•IPV4•15『线路3』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-http://43.251.226.89:8080/play/899.m3u8$LR•IPV4•14『线路4』
+http://43.251.226.89:8080/play/899.m3u8$LR•IPV4•15『线路4』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-https://vip.ffzy-play2.com/20221124/1291_468b2efb/index.m3u8$LR•IPV4•14『线路5』
+https://vip.ffzy-play2.com/20221124/1291_468b2efb/index.m3u8$LR•IPV4•15『线路5』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-p3p://167.114.175.6:55331/653e4a3f000b1abb0c85815c35fa0803$LR•IPV4•14『线路6』
+p3p://167.114.175.6:55331/653e4a3f000b1abb0c85815c35fa0803$LR•IPV4•15『线路6』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-https://hls-gateway.vpstv.net/streams/476226.m3u8$LR•IPV4•14『线路7』
+https://hls-gateway.vpstv.net/streams/476226.m3u8$LR•IPV4•15『线路7』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-http://live.metshop.top/huya/11352941?cdn=alicdn$LR•IPV4•14『线路8』
+http://cdn.jdshipin.com:8880/huya.php?id=11352941$LR•IPV4•15『线路8』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-http://cdn6.163189.xyz/163189/yzwx$LR•IPV4•14『线路9』
+http://live.metshop.top/huya/11352941?cdn=alicdn$LR•IPV4•15『线路9』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5897056882324761054&livemode=1&stbId=yu&mode=1&$LR•IPV4•14『线路10』
+http://cdn6.163189.xyz/163189/yzwx$LR•IPV4•15『线路10』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-http://173.208.212.130:8181/1080p/ssgf.m3u8$LR•IPV4•14『线路11』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5897056882324761054&livemode=1&stbId=yu&mode=1&$LR•IPV4•15『线路11』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-http://111.43.126.240:9003/hls/79/index.m3u8$LR•IPV4•14『线路12』
+http://173.208.212.130:8181/1080p/ssgf.m3u8$LR•IPV4•15『线路12』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443$LR•IPV4•14『线路13』
+http://111.43.126.240:9003/hls/79/index.m3u8$LR•IPV4•15『线路13』
 #EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
-https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4?pd=19&vt=1$LR•IPV4•14『线路14』
+https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443$LR•IPV4•15『线路14』
+#EXTINF:-1 tvg-name="功夫" group-title="经典小品",功夫
+https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4?pd=19&vt=1$LR•IPV4•15『线路15』
 #EXTINF:-1 tvg-name="相亲1" group-title="经典小品",相亲1
 https://vd3.bdstatic.com/mda-ki5quadqsdi1tk9e/mda-ki5quadqsdi1tk9e.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=3024484252&vid=10808391094376007907&auth_key=1655295624-0-0-6fb10727b6c3c195f08ff9bebe036cd0&bcevod_channel=searchbox_feed$LR•IPV4
 #EXTINF:-1 tvg-name="相亲2" group-title="经典小品",相亲2
@@ -659,6 +661,8 @@ https://live.ottiptv.cc/huya/23749096$LR•IPV4•2『线路2』
 https://live.ottiptv.cc/huya/30080236$LR•IPV4
 #EXTINF:-1 tvg-name="航海王" group-title="动画频道",航海王
 http://103.193.151.146/huya.php?id=16913382$LR•IPV4
+#EXTINF:-1 tvg-name="宇宙科幻合集" group-title="虎牙影视",宇宙科幻合集
+http://cdn.jdshipin.com:8880/huya.php?id=11342428$LR•IPV4
 #EXTINF:-1 tvg-name="古装武侠" group-title="斗鱼影视",古装武侠
 http://www.goodiptv.club/douyu/2793084$LR•IPV4
 #EXTINF:-1 tvg-name="冰冰影剧" group-title="斗鱼影视",冰冰影剧
@@ -703,22 +707,20 @@ http://www.goodiptv.club/douyu/9661369$LR•IPV4•6『线路6』
 https://live.ottiptv.cc/yy/1356043677$LR•IPV4
 #EXTINF:-1 tvg-name="少年包青天第三部" group-title="电视剧频道",少年包青天第三部
 https://live.ottiptv.cc/yy/1382736814$LR•IPV4
-#EXTINF:-1 tvg-name="爱情公寓" group-title="电视剧频道",爱情公寓
-https://live.ottiptv.cc/huya/11336726$LR•IPV4
 #EXTINF:-1 tvg-name="雪豹" group-title="电视剧频道",雪豹
 https://live.ottiptv.cc/huya/29580970$LR•IPV4
 #EXTINF:-1 tvg-name="特种兵之火凤凰" group-title="电视剧频道",特种兵之火凤凰
 https://live.ottiptv.cc/huya/29982636$LR•IPV4
 #EXTINF:-1 tvg-name="士兵突击" group-title="电视剧频道",士兵突击
-https://live.metshop.top/huya/11342430$LR•IPV4•2『线路1』
-#EXTINF:-1 tvg-name="士兵突击" group-title="电视剧频道",士兵突击
-https://live.ottiptv.cc/huya/11342430$LR•IPV4•2『线路2』
+https://live.metshop.top/huya/11342430$LR•IPV4
 #EXTINF:-1 tvg-name="天龙八部" group-title="电视剧频道",天龙八部
 https://live.ottiptv.cc/yy/1351814644$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="天龙八部" group-title="电视剧频道",天龙八部
 https://live.ottiptv.cc/huya/29981376$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="倚天屠龙记" group-title="电视剧频道",倚天屠龙记
 https://live.ottiptv.cc/huya/11342403$LR•IPV4
+#EXTINF:-1 tvg-name="康熙王朝" group-title="电视剧频道",康熙王朝
+https://live.ottiptv.cc/huya/11352940$LR•IPV4
 #EXTINF:-1 tvg-name="庆余年" group-title="电视剧频道",庆余年
 http://58.39.190.143:35455/huya/11352960$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="庆余年" group-title="电视剧频道",庆余年
@@ -760,13 +762,23 @@ http://live.nctv.top/DJlio/huya.php?id=21059598$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="武林外传" group-title="电视剧频道",武林外传
 https://lvbdcdncmn.inter.71edge.com/tslive/l1/c52_lb_553_300_t10/I67sb6wvoWaxfjPEdSuB8xyBShFln4Poub7LGIzPt5oGLcKaLXD21aR_t20nEIxJFmaf_i6EYQ77gA-gLJ3xOTtq6K7hpgCREwLfbuNMXruJdFta9-ai9bYk4cTMbhQgRh9SCkE3yt46X4E0qOVADDdga3TMRSLnFscFYr-_s4Sd2sgykmnFa4-hdgX9599FiW_RX5VYGH9B1jyj748_CAu4VgqqTDwxUx8w556tCWY7mlb1r84RWuip72e4H8-HkUuBUoFeD4aw9m1HOUfgwx7ixDqJUFOmq9F-LeKLTZ2Ap6fobRuaUiaSqHsCWvuy9XWe5KWBiZv6bUJ8oAuqkA/1a6758d872929c8d41a7629db52a831f7/c52_lb_553_300_t10.m3u8?key=0baa5db205ac0d29618a2e8d7964b7e4e&dis_t=1752408084&uuid=6f1d53dc-6873a014-459&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="楚汉骄雄" group-title="埋堆堆频道",楚汉骄雄
-https://live.ottiptv.cc/huya/29465854$LR•IPV4•2『线路1』
+http://cdn.jdshipin.com:8880/huya.php?id=29465854$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="楚汉骄雄" group-title="埋堆堆频道",楚汉骄雄
-http://tv.zimtv.cn/tv/player/api/huya.php?id=29465854$LR•IPV4•2『线路2』
+https://live.ottiptv.cc/huya/29465854$LR•IPV4•3『线路2』
+#EXTINF:-1 tvg-name="楚汉骄雄" group-title="埋堆堆频道",楚汉骄雄
+http://tv.zimtv.cn/tv/player/api/huya.php?id=29465854$LR•IPV4•3『线路3』
+#EXTINF:-1 tvg-name="西游记2" group-title="埋堆堆频道",西游记2
+http://cdn.jdshipin.com:8880/huya.php?id=29465859$LR•IPV4
+#EXTINF:-1 tvg-name="活佛济公3" group-title="埋堆堆频道",活佛济公3
+http://cdn.jdshipin.com:8880/huya.php?id=23903123$LR•IPV4
+#EXTINF:-1 tvg-name="无心法师" group-title="埋堆堆频道",无心法师
+http://cdn.jdshipin.com:8880/huya.php?id=30080233$LR•IPV4
 #EXTINF:-1 tvg-name="野蛮亲家" group-title="埋堆堆频道",野蛮亲家
-https://live.ottiptv.cc/huya/23863796$LR•IPV4•2『线路1』
+http://cdn.jdshipin.com:8880/huya.php?id=23863796$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="野蛮亲家" group-title="埋堆堆频道",野蛮亲家
-http://tv.zimtv.cn/tv/player/api/huya.php?id=23863796$LR•IPV4•2『线路2』
+https://live.ottiptv.cc/huya/23863796$LR•IPV4•3『线路2』
+#EXTINF:-1 tvg-name="野蛮亲家" group-title="埋堆堆频道",野蛮亲家
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23863796$LR•IPV4•3『线路3』
 #EXTINF:-1 tvg-name="倩女幽魂人间道" group-title="点播电影",倩女幽魂人间道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="倩女幽魂道道道" group-title="点播电影",倩女幽魂道道道
@@ -912,23 +924,23 @@ http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cz
 #EXTINF:-1 tvg-name="嵊州新闻" group-title="☘️浙江频道",嵊州新闻
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed?$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="平湖新闻" group-title="☘️浙江频道",平湖新闻
-http://play-sh13.quklive.com/live/1690167908295069.m3u8?auth_key=2027466211-f190eec410c24473825cbe1d8541e545-0-f21db57ae1b534802c1cf7be86cc3aef$LR•IPV4•10『线路1』
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed$LR•IPV4•10『线路1』
 #EXTINF:-1 tvg-name="平湖新闻" group-title="☘️浙江频道",平湖新闻
-https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-3.m3u8$LR•IPV4•10『线路2』
+http://play-sh13.quklive.com/live/1690167908295069.m3u8?auth_key=2027466211-f190eec410c24473825cbe1d8541e545-0-f21db57ae1b534802c1cf7be86cc3aef$LR•IPV4•10『线路2』
 #EXTINF:-1 tvg-name="平湖新闻" group-title="☘️浙江频道",平湖新闻
-http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8$LR•IPV4•10『线路3』
+https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-3.m3u8$LR•IPV4•10『线路3』
 #EXTINF:-1 tvg-name="平湖新闻" group-title="☘️浙江频道",平湖新闻
-https://t.freetv.fun/live/ping-hu-xin-wen-zong-he.m3u8$LR•IPV4•10『线路4』
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8$LR•IPV4•10『线路4』
 #EXTINF:-1 tvg-name="平湖新闻" group-title="☘️浙江频道",平湖新闻
-https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-1.m3u8$LR•IPV4•10『线路5』
+https://t.freetv.fun/live/ping-hu-xin-wen-zong-he.m3u8$LR•IPV4•10『线路5』
 #EXTINF:-1 tvg-name="平湖新闻" group-title="☘️浙江频道",平湖新闻
-https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-5.m3u8$LR•IPV4•10『线路6』
+https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-1.m3u8$LR•IPV4•10『线路6』
 #EXTINF:-1 tvg-name="平湖新闻" group-title="☘️浙江频道",平湖新闻
-http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl$LR•IPV4•10『线路7』
+https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-5.m3u8$LR•IPV4•10『线路7』
 #EXTINF:-1 tvg-name="平湖新闻" group-title="☘️浙江频道",平湖新闻
-https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-2.m3u8$LR•IPV4•10『线路8』
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl$LR•IPV4•10『线路8』
 #EXTINF:-1 tvg-name="平湖新闻" group-title="☘️浙江频道",平湖新闻
-http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed$LR•IPV4•10『线路9』
+https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-2.m3u8$LR•IPV4•10『线路9』
 #EXTINF:-1 tvg-name="平湖新闻" group-title="☘️浙江频道",平湖新闻
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed?$LR•IPV4•10『线路10』
 #EXTINF:-1 tvg-name="平湖民生" group-title="☘️浙江频道",平湖民生
@@ -1052,9 +1064,9 @@ http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8$LR•IPV4•9『线
 #EXTINF:-1 tvg-name="衢江新闻" group-title="☘️浙江频道",衢江新闻
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed?$LR•IPV4•9『线路9』
 #EXTINF:-1 tvg-name="诸暨新闻" group-title="☘️浙江频道",诸暨新闻
-http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed$LR•IPV4•3『线路1』
+https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="诸暨新闻" group-title="☘️浙江频道",诸暨新闻
-https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8$LR•IPV4•3『线路2』
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed$LR•IPV4•3『线路2』
 #EXTINF:-1 tvg-name="诸暨新闻" group-title="☘️浙江频道",诸暨新闻
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8$LR•IPV4•3『线路3』
 #EXTINF:-1 tvg-name="象山新闻" group-title="☘️浙江频道",象山新闻
@@ -1377,6 +1389,8 @@ https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTl
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4$LR•IPV4
 #EXTINF:-1 tvg-name="2024年春晚" group-title="春晚频道",2024年春晚
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$LR•IPV4
+#EXTINF:-1 tvg-name="2025年春晚" group-title="春晚频道",2025年春晚
+https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="Disney International" group-title="国际频道",Disney International
 http://149.71.34.166:8002/play/a01p/index.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="无线华丽" group-title="港澳台",无线华丽
@@ -1430,161 +1444,163 @@ http://183.64.181.25:40023/rongchang01.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="来宾综合" group-title="☘️广西频道",来宾综合
 http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6•78『线路1』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6•79『线路1』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://112.123.243.37:50085/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•78『线路2』
+http://112.123.243.37:50085/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4•79『线路2』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub$LR•IPV4•78『线路3』
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub$LR•IPV4•79『线路3』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://120.198.95.220:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&down=1$LR•IPV4•78『线路4』
+http://120.198.95.220:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&down=1$LR•IPV4•79『线路4』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://36.136.38.87:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•78『线路5』
+http://36.136.38.87:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•79『线路5』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•78『线路6』
+http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•79『线路6』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://124.116.183.146:9901/tsfile/live/0135_1.m3u8$LR•IPV4•78『线路7』
+http://112.27.235.94:8000/hls/42/index.m3u8$LR•IPV4•79『线路7』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://23.237.228.134/live8/tianjing.m3u8$LR•IPV4•78『线路8』
+https://piccpndks.v.kcdnvip.com/audio/tianjin_2/index.m3u8$LR•IPV4•79『线路8』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8$LR•IPV4•78『线路9』
+http://23.237.228.134/live8/tianjing.m3u8$LR•IPV4•79『线路9』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://api.kkitv.itv888.cn:8080/hls/z2lkdkrb4w/index.m3u8$LR•IPV4•78『线路10』
+http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8$LR•IPV4•79『线路10』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-https://iptv.catvod.com/catvod.php?id=tjws$LR•IPV4•78『线路11』
+http://api.kkitv.itv888.cn:8080/hls/z2lkdkrb4w/index.m3u8$LR•IPV4•79『线路11』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-https://httop.top/ysp-天津卫视$LR•IPV4•78『线路12』
+https://iptv.catvod.com/catvod.php?id=tjws$LR•IPV4•79『线路12』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://iptv.huuc.edu.cn/hls/tjhd.m3u8$LR•IPV4•78『线路13』
+https://httop.top/ysp-天津卫视$LR•IPV4•79『线路13』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8$LR•IPV4•78『线路14』
+http://iptv.huuc.edu.cn/hls/tjhd.m3u8$LR•IPV4•79『线路14』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://207.56.13.146:81/cdnlive/tjws.m3u8$LR•IPV4•78『线路15』
+http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8$LR•IPV4•79『线路15』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://192.151.150.154/live/tjwshd.m3u8$LR•IPV4•78『线路16』
+http://207.56.13.146:81/cdnlive/tjws.m3u8$LR•IPV4•79『线路16』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://173.208.212.130:8181/720p/tjws.m3u8$LR•IPV4•78『线路17』
+http://192.151.150.154/live/tjwshd.m3u8$LR•IPV4•79『线路17』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://204.12.221.218:8181/3m1080p/tjws.m3u8$LR•IPV4•78『线路18』
+http://173.208.212.130:8181/720p/tjws.m3u8$LR•IPV4•79『线路18』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000030788&livemode=1&stbId=yu&mode=1&$LR•IPV4•78『线路19』
+http://204.12.221.218:8181/3m1080p/tjws.m3u8$LR•IPV4•79『线路19』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006827&livemode=1&stbId=yu&mode=1&$LR•IPV4•78『线路20』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000030788&livemode=1&stbId=yu&mode=1&$LR•IPV4•79『线路20』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000000831&livemode=1&stbId=yu&mode=1&$LR•IPV4•78『线路21』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000006827&livemode=1&stbId=yu&mode=1&$LR•IPV4•79『线路21』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=yu&mode=1&$LR•IPV4•78『线路22』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000000831&livemode=1&stbId=yu&mode=1&$LR•IPV4•79『线路22』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=yu&mode=1&$LR•IPV4•78『线路23』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=yu&mode=1&$LR•IPV4•79『线路23』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6707942579111517572&livemode=1&stbId=yu&mode=1&$LR•IPV4•78『线路24』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=yu&mode=1&$LR•IPV4•79『线路24』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://111.29.9.38:6610/000000001000/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3$LR•IPV4•78『线路25』
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6707942579111517572&livemode=1&stbId=yu&mode=1&$LR•IPV4•79『线路25』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://111.29.9.33:6610/000000001000/1000000001000000831/index.m3u8?channel-id=bestzb&Contentid=1000000001000000831&livemode=1&stbId=3$LR•IPV4•78『线路26』
+http://111.29.9.38:6610/000000001000/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3$LR•IPV4•79『线路26』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://107.150.60.122/live/tjtv5.m3u8$LR•IPV4•78『线路27』
+http://111.29.9.33:6610/000000001000/1000000001000000831/index.m3u8?channel-id=bestzb&Contentid=1000000001000000831&livemode=1&stbId=3$LR•IPV4•79『线路27』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://111.43.126.240:9003/hls/31/index.m3u8$LR•IPV4•78『线路28』
+http://107.150.60.122/live/tjtv5.m3u8$LR•IPV4•79『线路28』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://192.151.150.154/live/tjtv5.m3u8$LR•IPV4•78『线路29』
+http://111.43.126.240:9003/hls/31/index.m3u8$LR•IPV4•79『线路29』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://192.151.150.154/live/tjtv3.m3u8$LR•IPV4•78『线路30』
+http://192.151.150.154/live/tjtv5.m3u8$LR•IPV4•79『线路30』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://107.150.60.122/live/tjwshd.m3u8$LR•IPV4•78『线路31』
+http://192.151.150.154/live/tjtv3.m3u8$LR•IPV4•79『线路31』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://198.204.228.26/live/tjwshd.m3u8$LR•IPV4•78『线路32』
+http://107.150.60.122/live/tjwshd.m3u8$LR•IPV4•79『线路32』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd$LR•IPV4•78『线路33』
+http://198.204.228.26/live/tjwshd.m3u8$LR•IPV4•79『线路33』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv1$LR•IPV4•78『线路34』
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd$LR•IPV4•79『线路34』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv2$LR•IPV4•78『线路35』
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv1$LR•IPV4•79『线路35』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv3$LR•IPV4•78『线路36』
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv2$LR•IPV4•79『线路36』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv4$LR•IPV4•78『线路37』
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv3$LR•IPV4•79『线路37』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5$LR•IPV4•78『线路38』
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv4$LR•IPV4•79『线路38』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv6$LR•IPV4•78『线路39』
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5$LR•IPV4•79『线路39』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://fcasad.x3322.net:9901/tsfile/live/1064_1.m3u8?key=txiptv$LR•IPV4•78『线路40』
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv6$LR•IPV4•79『线路40』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://116.128.243.121:9905/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•78『线路41』
+http://fcasad.x3322.net:9901/tsfile/live/1064_1.m3u8?key=txiptv$LR•IPV4•79『线路41』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://223.95.198.3:8000/hls/26/index.m3u8$LR•IPV4•78『线路42』
+http://116.128.243.121:9905/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•79『线路42』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://27.129.145.110:4433/hls/29/index.m3u8$LR•IPV4•78『线路43』
+http://223.95.198.3:8000/hls/26/index.m3u8$LR•IPV4•79『线路43』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://bit.famcloud.top:9878/rtp/239.3.1.141:1234$LR•IPV4•78『线路44』
+http://27.129.145.110:4433/hls/29/index.m3u8$LR•IPV4•79『线路44』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://route.079915.xyz:4022/rtp/239.3.1.141:1234$LR•IPV4•78『线路45』
+http://bit.famcloud.top:9878/rtp/239.3.1.141:1234$LR•IPV4•79『线路45』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://laiboy.asuscomm.com:58686/rtp/239.3.1.141:1234$LR•IPV4•78『线路46』
+http://route.079915.xyz:4022/rtp/239.3.1.141:1234$LR•IPV4•79『线路46』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://owvpn.famcloud.top:9878/rtp/239.3.1.141:1234$LR•IPV4•78『线路47』
+http://laiboy.asuscomm.com:58686/rtp/239.3.1.141:1234$LR•IPV4•79『线路47』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://tonsir.oicp.net:15893/rtp/239.3.1.141:1234$LR•IPV4•78『线路48』
+http://owvpn.famcloud.top:9878/rtp/239.3.1.141:1234$LR•IPV4•79『线路48』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://laiboy.myds.me:58686/rtp/239.3.1.141:1234$LR•IPV4•78『线路49』
+http://tonsir.oicp.net:15893/rtp/239.3.1.141:1234$LR•IPV4•79『线路49』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://mom.famcloud.top:9878/rtp/239.3.1.141:1234$LR•IPV4•78『线路50』
+http://laiboy.myds.me:58686/rtp/239.3.1.141:1234$LR•IPV4•79『线路50』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://www.uibehw.cn:4022/rtp/239.3.1.141:1234$LR•IPV4•78『线路51』
+http://mom.famcloud.top:9878/rtp/239.3.1.141:1234$LR•IPV4•79『线路51』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://laowang666.familyds.com:6300/rtp/239.3.1.141:1234$LR•IPV4•78『线路52』
+http://www.uibehw.cn:4022/rtp/239.3.1.141:1234$LR•IPV4•79『线路52』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://nas.sphinger.cn:11012/rtp/239.3.1.141:1234$LR•IPV4•78『线路53』
+http://laowang666.familyds.com:6300/rtp/239.3.1.141:1234$LR•IPV4•79『线路53』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://sphinger.f3322.net:11012/rtp/239.3.1.141:1234$LR•IPV4•78『线路54』
+http://nas.sphinger.cn:11012/rtp/239.3.1.141:1234$LR•IPV4•79『线路54』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://x1x.bid:5146/rtp/239.3.1.141:1234$LR•IPV4•78『线路55』
+http://sphinger.f3322.net:11012/rtp/239.3.1.141:1234$LR•IPV4•79『线路55』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://www.photoby.us:28012/rtp/239.3.1.141:1234$LR•IPV4•78『线路56』
+http://x1x.bid:5146/rtp/239.3.1.141:1234$LR•IPV4•79『线路56』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://photoby.us:28012/rtp/239.3.1.141:1234$LR•IPV4•78『线路57』
+http://www.photoby.us:28012/rtp/239.3.1.141:1234$LR•IPV4•79『线路57』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://rt.096096.xyz:61612/rtp/239.3.1.141:1234$LR•IPV4•78『线路58』
+http://photoby.us:28012/rtp/239.3.1.141:1234$LR•IPV4•79『线路58』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://wuyanjiang.cn:8012/rtp/239.3.1.141:1234$LR•IPV4•78『线路59』
+http://rt.096096.xyz:61612/rtp/239.3.1.141:1234$LR•IPV4•79『线路59』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://www.221111.best:8012/rtp/239.3.1.141:1234$LR•IPV4•78『线路60』
+http://wuyanjiang.cn:8012/rtp/239.3.1.141:1234$LR•IPV4•79『线路60』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://file.rbscraft.com:4022/rtp/239.3.1.141:1234$LR•IPV4•78『线路61』
+http://www.221111.best:8012/rtp/239.3.1.141:1234$LR•IPV4•79『线路61』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://www.ikuai.me:4022/rtp/239.3.1.141:1234$LR•IPV4•78『线路62』
+http://file.rbscraft.com:4022/rtp/239.3.1.141:1234$LR•IPV4•79『线路62』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://unicom3.swjms.com:4022/rtp/239.3.1.141:1234$LR•IPV4•78『线路63』
+http://www.ikuai.me:4022/rtp/239.3.1.141:1234$LR•IPV4•79『线路63』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://gmk.ddns.wangbin.us:4022/rtp/239.3.1.141:1234$LR•IPV4•78『线路64』
+http://unicom3.swjms.com:4022/rtp/239.3.1.141:1234$LR•IPV4•79『线路64』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://guoxue.synology.me:57022/rtp/239.3.1.141:1234$LR•IPV4•78『线路65』
+http://gmk.ddns.wangbin.us:4022/rtp/239.3.1.141:1234$LR•IPV4•79『线路65』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://superpostmail.3322.org:1193/rtp/239.3.1.141:1234$LR•IPV4•78『线路66』
+http://guoxue.synology.me:57022/rtp/239.3.1.141:1234$LR•IPV4•79『线路66』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://home.hexuntong.net:8188/rtp/239.3.1.141:1234$LR•IPV4•78『线路67』
+http://superpostmail.3322.org:1193/rtp/239.3.1.141:1234$LR•IPV4•79『线路67』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.141:1234$LR•IPV4•78『线路68』
+http://home.hexuntong.net:8188/rtp/239.3.1.141:1234$LR•IPV4•79『线路68』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://60.10.139.113:8801/hls/23/index.m3u8$LR•IPV4•78『线路69』
+http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.141:1234$LR•IPV4•79『线路69』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-https://live.264788.xyz/channel/tianjinweishi?streamid=23e186fb7d206d16fad75c9d18d05345&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•78『线路70』
+http://60.10.139.113:8801/hls/23/index.m3u8$LR•IPV4•79『线路70』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-https://live.264788.xyz/channel/tianjinweishi?streamid=6419ff8c5c01de32a2b322b551236f41&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•78『线路71』
+https://live.264788.xyz/channel/tianjinweishi?streamid=23e186fb7d206d16fad75c9d18d05345&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•79『线路71』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-https://live.264788.xyz/channel/tianjinweishi?streamid=d30a60392735d9a6ff2b72630d81c5d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•78『线路72』
+https://live.264788.xyz/channel/tianjinweishi?streamid=6419ff8c5c01de32a2b322b551236f41&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•79『线路72』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-https://live.264788.xyz/channel/tianjinweishi?streamid=6cb7a48d729b22a36431f8ed1036f3c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•78『线路73』
+https://live.264788.xyz/channel/tianjinweishi?streamid=d30a60392735d9a6ff2b72630d81c5d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•79『线路73』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-https://live.264788.xyz/channel/tianjinweishi?streamid=53f0f1a72f5c328bef6502a4b663fe9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•78『线路74』
+https://live.264788.xyz/channel/tianjinweishi?streamid=6cb7a48d729b22a36431f8ed1036f3c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•79『线路74』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-https://live.264788.xyz/channel/tianjinweishi?streamid=9a2e438e8938d4af21d3f6ba831dd719&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•78『线路75』
+https://live.264788.xyz/channel/tianjinweishi?streamid=53f0f1a72f5c328bef6502a4b663fe9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•79『线路75』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/index.m3u8$LR•IPV4•78『线路76』
+https://live.264788.xyz/channel/tianjinweishi?streamid=9a2e438e8938d4af21d3f6ba831dd719&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$LR•IPV4•79『线路76』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$LR•IPV4•78『线路77』
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/index.m3u8$LR•IPV4•79『线路77』
 #EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227306/index.m3u8$LR•IPV4•78『线路78』
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$LR•IPV4•79『线路78』
+#EXTINF:-1 tvg-name="天津" group-title="☘️天津频道",天津
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227306/index.m3u8$LR•IPV4•79『线路79』
 #EXTINF:-1 tvg-name="西峰综合" group-title="☘️甘肃频道",西峰综合
 https://play.kankanlive.com/live/1683944827526991.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="渭源新闻" group-title="☘️甘肃频道",渭源新闻
@@ -1904,53 +1920,53 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="KShopping" group-title="•韩国",KShopping
 https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8$LR•IPV4•39『线路1』
+https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8$LR•IPV4•39『线路1』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8$LR•IPV4•39『线路2』
+http://mytv.dothome.co.kr/ch/catv/28.php$LR•IPV4•39『线路2』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8$LR•IPV4•39『线路3』
+http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8$LR•IPV4•39『线路3』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-http://andong.webcasting.co.kr/live/mbc/playlist.m3u8$LR•IPV4•39『线路4』
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8$LR•IPV4•39『线路4』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8$LR•IPV4•39『线路5』
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8$LR•IPV4•39『线路5』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8$LR•IPV4•39『线路6』
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8$LR•IPV4•39『线路6』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8$LR•IPV4•39『线路7』
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8$LR•IPV4•39『线路7』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8$LR•IPV4•39『线路8』
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8$LR•IPV4•39『线路8』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8$LR•IPV4•39『线路9』
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8$LR•IPV4•39『线路9』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8$LR•IPV4•39『线路10』
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8$LR•IPV4•39『线路10』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8$LR•IPV4•39『线路11』
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8$LR•IPV4•39『线路11』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8$LR•IPV4•39『线路12』
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8$LR•IPV4•39『线路12』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8$LR•IPV4•39『线路13』
+http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8$LR•IPV4•39『线路13』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8$LR•IPV4•39『线路14』
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8$LR•IPV4•39『线路14』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8$LR•IPV4•39『线路15』
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8$LR•IPV4•39『线路15』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8$LR•IPV4•39『线路16』
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8$LR•IPV4•39『线路16』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8$LR•IPV4•39『线路17』
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8$LR•IPV4•39『线路17』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8$LR•IPV4•39『线路18』
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8$LR•IPV4•39『线路18』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8$LR•IPV4•39『线路19』
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8$LR•IPV4•39『线路19』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://mumt03.tangotv.in/MBCTV/index.m3u8$LR•IPV4•39『线路20』
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8$LR•IPV4•39『线路20』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8$LR•IPV4•39『线路21』
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8$LR•IPV4•39『线路21』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8$LR•IPV4•39『线路22』
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8$LR•IPV4•39『线路22』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-http://mytv.dothome.co.kr/ch/catv/28.php$LR•IPV4•39『线路23』
+https://mumt03.tangotv.in/MBCTV/index.m3u8$LR•IPV4•39『线路23』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
-http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8$LR•IPV4•39『线路24』
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8$LR•IPV4•39『线路24』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
 https://cdn-2.pishow.tv/live/477/master.m3u8$LR•IPV4•39『线路25』
 #EXTINF:-1 tvg-name="MBC" group-title="•韩国",MBC
@@ -1986,23 +2002,23 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="SBS" group-title="•韩国",SBS
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=sbsk-drama&channel_id=newid_008&mpf=c064f5f4-39af1962-7c36be2c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=474ab4cb-5d47aa0a-84d0cbca-2a3730a6&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]$LR•IPV4•10『线路1』
 #EXTINF:-1 tvg-name="SBS" group-title="•韩国",SBS
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8$LR•IPV4•10『线路2』
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8$LR•IPV4•10『线路2』
 #EXTINF:-1 tvg-name="SBS" group-title="•韩国",SBS
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8$LR•IPV4•10『线路3』
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8$LR•IPV4•10『线路3』
 #EXTINF:-1 tvg-name="SBS" group-title="•韩国",SBS
-http://123.140.197.22/stream/1/play.m3u8$LR•IPV4•10『线路4』
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8$LR•IPV4•10『线路4』
 #EXTINF:-1 tvg-name="SBS" group-title="•韩国",SBS
-http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8$LR•IPV4•10『线路5』
+http://123.140.197.22/stream/1/play.m3u8$LR•IPV4•10『线路5』
 #EXTINF:-1 tvg-name="SBS" group-title="•韩国",SBS
-https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8$LR•IPV4•10『线路6』
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8$LR•IPV4•10『线路6』
 #EXTINF:-1 tvg-name="SBS" group-title="•韩国",SBS
-https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8$LR•IPV4•10『线路7』
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8$LR•IPV4•10『线路7』
 #EXTINF:-1 tvg-name="SBS" group-title="•韩国",SBS
-http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8$LR•IPV4•10『线路8』
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8$LR•IPV4•10『线路8』
 #EXTINF:-1 tvg-name="SBS" group-title="•韩国",SBS
-https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8$LR•IPV4•10『线路9』
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8$LR•IPV4•10『线路9』
 #EXTINF:-1 tvg-name="SBS" group-title="•韩国",SBS
-https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8$LR•IPV4•10『线路10』
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8$LR•IPV4•10『线路10』
 #EXTINF:-1 tvg-name="日テレNEWS24" group-title="•日本",日テレNEWS24
 http://iptv.zkbhj.com/tv/url/go?id=729942d34e8518d7d5d61c380136549bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f$LR•IPV4
 #EXTINF:-1 tvg-name="Shop Channel" group-title="•日本",Shop Channel
@@ -2028,279 +2044,279 @@ p3p://167.114.175.6:55331/6506c5e500027c7f33a9834b5d937568$LR•IPV4•252『线
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
 p3p://167.114.175.6:55331/621dc4640002052a2743501031f65ed4$LR•IPV4•252『线路4』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8$LR•IPV4•252『线路5』
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/aaj-ki-khabar/index.m3u8?ads.vf=aDW1W_0t2nW$LR•IPV4•252『线路5』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8$LR•IPV4•252『线路6』
+https://streamer3.premio.link/alqamar/playlist.m3u8$LR•IPV4•252『线路6』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8$LR•IPV4•252『线路7』
+https://d3cm8xyrjwa22p.cloudfront.net/30504/88896035/hls/master.m3u8?ads.xumo_channelId=88896035$LR•IPV4•252『线路7』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8$LR•IPV4•252『线路8』
+https://avr.host247.net/live/AvarTv/playlist.m3u8$LR•IPV4•252『线路8』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://avantstreaming.es/hls/canal3.m3u8$LR•IPV4•252『线路9』
+https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8$LR•IPV4•252『线路9』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8$LR•IPV4•252『线路10』
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8$LR•IPV4•252『线路10』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8$LR•IPV4•252『线路11』
+https://banjartv.siar.us/banjartv/live/playlist.m3u8$LR•IPV4•252『线路11』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://cdn-4.pishow.tv/live/35/master.m3u8$LR•IPV4•252『线路12』
+https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8$LR•IPV4•252『线路12』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://mumt01.tangotv.in/DDGIRNAR/index.m3u8$LR•IPV4•252『线路13』
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8$LR•IPV4•252『线路13』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://cdn-1.pishow.tv/live/36/master.m3u8$LR•IPV4•252『线路14』
+https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•252『线路14』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8$LR•IPV4•252『线路15』
+https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•252『线路15』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8$LR•IPV4•252『线路16』
+https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•252『线路16』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-http://103.72.101.252:8080/live/1209.m3u8$LR•IPV4•252『线路17』
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•252『线路17』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8$LR•IPV4•252『线路18』
+https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•252『线路18』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8$LR•IPV4•252『线路19』
+https://jmp2.uk/plu-65b1077e0d9ab40008245b20.m3u8$LR•IPV4•252『线路19』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://cdn-3.pishow.tv/live/473/master.m3u8$LR•IPV4•252『线路20』
+http://intelincloud01.com.ar/hls/cn3/index.m3u8$LR•IPV4•252『线路20』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8$LR•IPV4•252『线路21』
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8$LR•IPV4•252『线路21』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-http://iptv.services.everywan.net:8080/martv-web/video.m3u8$LR•IPV4•252『线路22』
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8$LR•IPV4•252『线路22』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=$LR•IPV4•252『线路23』
+https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8$LR•IPV4•252『线路23』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8$LR•IPV4•252『线路24』
+https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8$LR•IPV4•252『线路24』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://streamunoapp.com:3255/live/palmartvlive.m3u8$LR•IPV4•252『线路25』
+https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8$LR•IPV4•252『线路25』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://stream.polar.cz/polar/polarlive-1/playlist.m3u8$LR•IPV4•252『线路26』
+https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8$LR•IPV4•252『线路26』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8$LR•IPV4•252『线路27』
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095$LR•IPV4•252『线路27』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8$LR•IPV4•252『线路28』
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cigar-tv/amgplt0081.m3u8?ads.vf=r8Qicpt5w_C$LR•IPV4•252『线路28』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd$LR•IPV4•252『线路29』
+https://streams2.sofast.tv/vglive-sk-798765/index.m3u8$LR•IPV4•252『线路29』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8$LR•IPV4•252『线路30』
+https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8$LR•IPV4•252『线路30』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8$LR•IPV4•252『线路31』
+https://d3p03mkvhnk6ll.cloudfront.net/playlist.m3u8$LR•IPV4•252『线路31』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8$LR•IPV4•252『线路32』
+https://jmp2.uk/plu-677fb078a4af36ad50111032.m3u8$LR•IPV4•252『线路32』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8$LR•IPV4•252『线路33』
+https://amg01201-amg01201c30-cineverse-us-3100.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-cineverseus/playlist.m3u8$LR•IPV4•252『线路33』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8$LR•IPV4•252『线路34』
+https://amg01201-cinedigm-amg01201c30-xumo-us-2277.playouts.now.amagi.tv/cinedigm-dogwhisperer-hls/playlist.m3u8$LR•IPV4•252『线路34』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8$LR•IPV4•252『线路35』
+https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8$LR•IPV4•252『线路35』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8$LR•IPV4•252『线路36』
+https://d38sud5af047z8.cloudfront.net/ftveu.m3u8$LR•IPV4•252『线路36』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8$LR•IPV4•252『线路37』
+https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8$LR•IPV4•252『线路37』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-http://95.105.193.219:88/hls/tvst.m3u8$LR•IPV4•252『线路38』
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8$LR•IPV4•252『线路38』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-http://htvint.mada.ps:8889/orient/index.m3u8$LR•IPV4•252『线路39』
+https://jmp2.uk/plu-65dde626ec9fda0008b3dc89.m3u8$LR•IPV4•252『线路39』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8$LR•IPV4•252『线路40』
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-khabar/index.m3u8?ads.vf=cjpu5dTXKAu$LR•IPV4•252『线路40』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/aaj-ki-khabar/index.m3u8?ads.vf=aDW1W_0t2nW$LR•IPV4•252『线路41』
+https://jmp2.uk/plu-6501ae4998020f00085040ed.m3u8$LR•IPV4•252『线路41』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://streamer3.premio.link/alqamar/playlist.m3u8$LR•IPV4•252『线路42』
+https://amg01954-amg01954c2-samsung-gb-10391.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01954-animaccordltd-mashaandthebeareng-samsunggb/playlist.m3u8$LR•IPV4•252『线路42』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://d3cm8xyrjwa22p.cloudfront.net/30504/88896035/hls/master.m3u8?ads.xumo_channelId=88896035$LR•IPV4•252『线路43』
+https://pb-tc6lcocnesxgi.akamaized.net/playlist.m3u8$LR•IPV4•252『线路43』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://avr.host247.net/live/AvarTv/playlist.m3u8$LR•IPV4•252『线路44』
+https://jmp2.uk/plu-677fb3432952c1163bf1a539.m3u8$LR•IPV4•252『线路44』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8$LR•IPV4•252『线路45』
+https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8$LR•IPV4•252『线路45』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8$LR•IPV4•252『线路46』
+https://jmp2.uk/plu-6549322e53fc97000838febc.m3u8$LR•IPV4•252『线路46』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://banjartv.siar.us/banjartv/live/playlist.m3u8$LR•IPV4•252『线路47』
+https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist.m3u8$LR•IPV4•252『线路47』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8$LR•IPV4•252『线路48』
+https://dzz957bqk62e8.cloudfront.net/NASCAR.m3u8$LR•IPV4•252『线路48』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8$LR•IPV4•252『线路49』
+https://mumt01.tangotv.in/PEARTV/index.m3u8$LR•IPV4•252『线路49』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•252『线路50』
+https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8$LR•IPV4•252『线路50』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•252『线路51』
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8$LR•IPV4•252『线路51』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•252『线路52』
+https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8$LR•IPV4•252『线路52』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•252『线路53』
+https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8$LR•IPV4•252『线路53』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•252『线路54』
+http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8$LR•IPV4•252『线路54』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-65b1077e0d9ab40008245b20.m3u8$LR•IPV4•252『线路55』
+https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8$LR•IPV4•252『线路55』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-http://intelincloud01.com.ar/hls/cn3/index.m3u8$LR•IPV4•252『线路56』
+http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8$LR•IPV4•252『线路56』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://streamconex.com:19360/mardelplata/mardelplata.m3u8$LR•IPV4•252『线路57』
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8$LR•IPV4•252『线路57』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8$LR•IPV4•252『线路58』
+https://www.streaming.radartv.co.id/hls/test.m3u8$LR•IPV4•252『线路58』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8$LR•IPV4•252『线路59』
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8$LR•IPV4•252『线路59』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8$LR•IPV4•252『线路60』
+https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8$LR•IPV4•252『线路60』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8$LR•IPV4•252『线路61』
+https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8$LR•IPV4•252『线路61』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8$LR•IPV4•252『线路62』
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8$LR•IPV4•252『线路62』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095$LR•IPV4•252『线路63』
+https://jmp2.uk/plu-63e3b2cba99571000887a6ce.m3u8$LR•IPV4•252『线路63』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cigar-tv/amgplt0081.m3u8?ads.vf=r8Qicpt5w_C$LR•IPV4•252『线路64』
+https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8$LR•IPV4•252『线路64』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://streams2.sofast.tv/vglive-sk-798765/index.m3u8$LR•IPV4•252『线路65』
+https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8$LR•IPV4•252『线路65』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8$LR•IPV4•252『线路66』
+https://jmp2.uk/plu-68e38b005c876cf730fcbf0f.m3u8$LR•IPV4•252『线路66』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://d3p03mkvhnk6ll.cloudfront.net/playlist.m3u8$LR•IPV4•252『线路67』
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8$LR•IPV4•252『线路67』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-677fb078a4af36ad50111032.m3u8$LR•IPV4•252『线路68』
+http://103.250.28.74:8000/play/a010/index.m3u8$LR•IPV4•252『线路68』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://amg01201-amg01201c30-cineverse-us-3100.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-cineverseus/playlist.m3u8$LR•IPV4•252『线路69』
+https://live-fi.tvkaista.net/star-channel/live.m3u8$LR•IPV4•252『线路69』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://amg01201-cinedigm-amg01201c30-xumo-us-2277.playouts.now.amagi.tv/cinedigm-dogwhisperer-hls/playlist.m3u8$LR•IPV4•252『线路70』
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8$LR•IPV4•252『线路70』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8$LR•IPV4•252『线路71』
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8$LR•IPV4•252『线路71』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://d38sud5af047z8.cloudfront.net/ftveu.m3u8$LR•IPV4•252『线路72』
+https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8$LR•IPV4•252『线路72』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8$LR•IPV4•252『线路73』
+https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8$LR•IPV4•252『线路73』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8$LR•IPV4•252『线路74』
+https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8$LR•IPV4•252『线路74』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-65dde626ec9fda0008b3dc89.m3u8$LR•IPV4•252『线路75』
+https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8$LR•IPV4•252『线路75』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-khabar/index.m3u8?ads.vf=cjpu5dTXKAu$LR•IPV4•252『线路76』
+https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8$LR•IPV4•252『线路76』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-6501ae4998020f00085040ed.m3u8$LR•IPV4•252『线路77』
+https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8$LR•IPV4•252『线路77』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://amg01954-amg01954c2-samsung-gb-10391.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01954-animaccordltd-mashaandthebeareng-samsunggb/playlist.m3u8$LR•IPV4•252『线路78』
+https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8$LR•IPV4•252『线路78』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://pb-tc6lcocnesxgi.akamaized.net/playlist.m3u8$LR•IPV4•252『线路79』
+https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8$LR•IPV4•252『线路79』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-677fb3432952c1163bf1a539.m3u8$LR•IPV4•252『线路80』
+https://jmp2.uk/plu-693add137e308621c051e733.m3u8$LR•IPV4•252『线路80』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8$LR•IPV4•252『线路81』
+https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8$LR•IPV4•252『线路81』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-6549322e53fc97000838febc.m3u8$LR•IPV4•252『线路82』
+https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8$LR•IPV4•252『线路82』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist.m3u8$LR•IPV4•252『线路83』
+https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8$LR•IPV4•252『线路83』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://dzz957bqk62e8.cloudfront.net/NASCAR.m3u8$LR•IPV4•252『线路84』
+https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8$LR•IPV4•252『线路84』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://mumt01.tangotv.in/PEARTV/index.m3u8$LR•IPV4•252『线路85』
+https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8$LR•IPV4•252『线路85』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8$LR•IPV4•252『线路86』
+https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8$LR•IPV4•252『线路86』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8$LR•IPV4•252『线路87』
+https://jmp2.uk/plu-61c1921610d254000727eebd.m3u8$LR•IPV4•252『线路87』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8$LR•IPV4•252『线路88』
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swar-shree/index.m3u8?ads.vf=N85canAP53y$LR•IPV4•252『线路88』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8$LR•IPV4•252『线路89』
+https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8$LR•IPV4•252『线路89』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8$LR•IPV4•252『线路90』
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8$LR•IPV4•252『线路90』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8$LR•IPV4•252『线路91』
+https://jmp2.uk/plu-66289716039f940008cf20a2.m3u8$LR•IPV4•252『线路91』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8$LR•IPV4•252『线路92』
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•252『线路92』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://stream.kaztrk.kz/regional/petropavltv/index.m3u8$LR•IPV4•252『线路93』
+https://jmp2.uk/plu-66a10384d5125900089dfd04.m3u8$LR•IPV4•252『线路93』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://www.streaming.radartv.co.id/hls/test.m3u8$LR•IPV4•252『线路94』
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8$LR•IPV4•252『线路94』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://v2.siar.us/radartasikmalaya/live/playlist.m3u8$LR•IPV4•252『线路95』
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8$LR•IPV4•252『线路95』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8$LR•IPV4•252『线路96』
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8?ads.vf=X90osqQhWPS$LR•IPV4•252『线路96』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8$LR•IPV4•252『线路97』
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8$LR•IPV4•252『线路97』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8$LR•IPV4•252『线路98』
+https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8$LR•IPV4•252『线路98』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-63e3b2cba99571000887a6ce.m3u8$LR•IPV4•252『线路99』
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8$LR•IPV4•252『线路99』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8$LR•IPV4•252『线路100』
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8$LR•IPV4•252『线路100』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8$LR•IPV4•252『线路101』
+https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8$LR•IPV4•252『线路101』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-68e38b005c876cf730fcbf0f.m3u8$LR•IPV4•252『线路102』
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8$LR•IPV4•252『线路102』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8$LR•IPV4•252『线路103』
+https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8$LR•IPV4•252『线路103』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-http://103.250.28.74:8000/play/a010/index.m3u8$LR•IPV4•252『线路104』
+https://jmp2.uk/plu-6319ee0cf78bb10007ee5e6b.m3u8$LR•IPV4•252『线路104』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://live-fi.tvkaista.net/star-channel/live.m3u8$LR•IPV4•252『线路105』
+https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8$LR•IPV4•252『线路105』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8$LR•IPV4•252『线路106』
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8$LR•IPV4•252『线路106』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8$LR•IPV4•252『线路107』
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8$LR•IPV4•252『线路107』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8$LR•IPV4•252『线路108』
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8$LR•IPV4•252『线路108』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8$LR•IPV4•252『线路109』
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8$LR•IPV4•252『线路109』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8$LR•IPV4•252『线路110』
+https://avantstreaming.es/hls/canal3.m3u8$LR•IPV4•252『线路110』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8$LR•IPV4•252『线路111』
+https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8$LR•IPV4•252『线路111』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8$LR•IPV4•252『线路112』
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8$LR•IPV4•252『线路112』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8$LR•IPV4•252『线路113』
+https://cdn-4.pishow.tv/live/35/master.m3u8$LR•IPV4•252『线路113』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8$LR•IPV4•252『线路114』
+https://mumt01.tangotv.in/DDGIRNAR/index.m3u8$LR•IPV4•252『线路114』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8$LR•IPV4•252『线路115』
+https://cdn-1.pishow.tv/live/36/master.m3u8$LR•IPV4•252『线路115』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-693add137e308621c051e733.m3u8$LR•IPV4•252『线路116』
+https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8$LR•IPV4•252『线路116』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8$LR•IPV4•252『线路117』
+https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8$LR•IPV4•252『线路117』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8$LR•IPV4•252『线路118』
+http://103.72.101.252:8080/live/1209.m3u8$LR•IPV4•252『线路118』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8$LR•IPV4•252『线路119』
+https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8$LR•IPV4•252『线路119』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8$LR•IPV4•252『线路120』
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8$LR•IPV4•252『线路120』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8$LR•IPV4•252『线路121』
+https://cdn-3.pishow.tv/live/473/master.m3u8$LR•IPV4•252『线路121』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8$LR•IPV4•252『线路122』
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8$LR•IPV4•252『线路122』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-61c1921610d254000727eebd.m3u8$LR•IPV4•252『线路123』
+http://iptv.services.everywan.net:8080/martv-web/video.m3u8$LR•IPV4•252『线路123』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swar-shree/index.m3u8?ads.vf=N85canAP53y$LR•IPV4•252『线路124』
+https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=$LR•IPV4•252『线路124』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8$LR•IPV4•252『线路125』
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8$LR•IPV4•252『线路125』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8$LR•IPV4•252『线路126』
+https://streamunoapp.com:3255/live/palmartvlive.m3u8$LR•IPV4•252『线路126』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-66289716039f940008cf20a2.m3u8$LR•IPV4•252『线路127』
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8$LR•IPV4•252『线路127』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•252『线路128』
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8$LR•IPV4•252『线路128』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-66a10384d5125900089dfd04.m3u8$LR•IPV4•252『线路129』
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8$LR•IPV4•252『线路129』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8$LR•IPV4•252『线路130』
+https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd$LR•IPV4•252『线路130』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8$LR•IPV4•252『线路131』
+https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8$LR•IPV4•252『线路131』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8?ads.vf=X90osqQhWPS$LR•IPV4•252『线路132』
+https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8$LR•IPV4•252『线路132』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8$LR•IPV4•252『线路133』
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8$LR•IPV4•252『线路133』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8$LR•IPV4•252『线路134』
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8$LR•IPV4•252『线路134』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8$LR•IPV4•252『线路135』
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8$LR•IPV4•252『线路135』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8$LR•IPV4•252『线路136』
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8$LR•IPV4•252『线路136』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8$LR•IPV4•252『线路137』
+https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8$LR•IPV4•252『线路137』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8$LR•IPV4•252『线路138』
+https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8$LR•IPV4•252『线路138』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8$LR•IPV4•252『线路139』
+http://95.105.193.219:88/hls/tvst.m3u8$LR•IPV4•252『线路139』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://jmp2.uk/plu-6319ee0cf78bb10007ee5e6b.m3u8$LR•IPV4•252『线路140』
+http://htvint.mada.ps:8889/orient/index.m3u8$LR•IPV4•252『线路140』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
-https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8$LR•IPV4•252『线路141』
+https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8$LR•IPV4•252『线路141』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
 https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8$LR•IPV4•252『线路142』
 #EXTINF:-1 tvg-name="AR" group-title="•杂货",AR
@@ -2662,41 +2678,41 @@ http://vocotv.pro//revol/revol/276924$LR•IPV4•60『线路14』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
 http://vocotv.pro//revol/revol/276906$LR•IPV4•60『线路15』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8$LR•IPV4•60『线路16』
+https://jmp2.uk/plu-638e10de75c3a30007092693.m3u8$LR•IPV4•60『线路16』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8$LR•IPV4•60『线路17』
+https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8$LR•IPV4•60『线路17』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://jmp2.uk/plu-638e10de75c3a30007092693.m3u8$LR•IPV4•60『线路18』
+https://jmp2.uk/plu-692edcff77f0147d69f19498.m3u8$LR•IPV4•60『线路18』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8$LR•IPV4•60『线路19』
+https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8$LR•IPV4•60『线路19』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://jmp2.uk/plu-692edcff77f0147d69f19498.m3u8$LR•IPV4•60『线路20』
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8$LR•IPV4•60『线路20』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8$LR•IPV4•60『线路21』
+https://jmp2.uk/plu-62bed7cb3279cb0007735327.m3u8$LR•IPV4•60『线路21』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8$LR•IPV4•60『线路22』
+https://d1nn4ic5ci0eid.cloudfront.net/MasterchefUKPoweredbyBanijay_GB.m3u8$LR•IPV4•60『线路22』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://jmp2.uk/plu-62bed7cb3279cb0007735327.m3u8$LR•IPV4•60『线路23』
+https://dvqpty1sb3rry.cloudfront.net/PointlessUKPoweredbyBanijay_GB.m3u8$LR•IPV4•60『线路23』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://d1nn4ic5ci0eid.cloudfront.net/MasterchefUKPoweredbyBanijay_GB.m3u8$LR•IPV4•60『线路24』
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8$LR•IPV4•60『线路24』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://dvqpty1sb3rry.cloudfront.net/PointlessUKPoweredbyBanijay_GB.m3u8$LR•IPV4•60『线路25』
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8$LR•IPV4•60『线路25』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8$LR•IPV4•60『线路26』
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8$LR•IPV4•60『线路26』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8$LR•IPV4•60『线路27』
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8$LR•IPV4•60『线路27』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8$LR•IPV4•60『线路28』
+https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8$LR•IPV4•60『线路28』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8$LR•IPV4•60『线路29』
+https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•60『线路29』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8$LR•IPV4•60『线路30』
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.vf=cgXMgPi7oBS$LR•IPV4•60『线路30』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•60『线路31』
+https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8$LR•IPV4•60『线路31』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.vf=cgXMgPi7oBS$LR•IPV4•60『线路32』
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8$LR•IPV4•60『线路32』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
-https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8$LR•IPV4•60『线路33』
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8$LR•IPV4•60『线路33』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8$LR•IPV4•60『线路34』
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
@@ -2752,11 +2768,11 @@ http://epicboss.live/bjune@teksavvy.com/5193594414/9437$LR•IPV4•60『线路5
 #EXTINF:-1 tvg-name="UK" group-title="•杂货",UK
 http://epicboss.live/bjune@teksavvy.com/5193594414/30171$LR•IPV4•60『线路60』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8$LR•IPV4•150『线路1』
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8$LR•IPV4•150『线路1』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8$LR•IPV4•150『线路2』
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8$LR•IPV4•150『线路2』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8$LR•IPV4•150『线路3』
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8$LR•IPV4•150『线路3』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
 http://php.jdshipin.com/TVOD/iptv.php?id=j2$LR•IPV4•150『线路4』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
@@ -2784,261 +2800,261 @@ p3p://167.114.175.6:55331/63efe252000a7658f245d81113e44b34$LR•IPV4•150『线
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
 p3p://167.114.175.6:55331/63efe2e2000d23b5f2480b4125294b9a$LR•IPV4•150『线路16』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1701491008_b5160000_sleng.m3u8$LR•IPV4•150『线路17』
+https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8$LR•IPV4•150『线路17』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://liveingesta318.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8$LR•IPV4•150『线路18』
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8?ads.vf=JS9U64wz-A8$LR•IPV4•150『线路18』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://cloudvideo.servers10.com:8081/8030/index.m3u8$LR•IPV4•150『线路19』
+https://jmp2.uk/plu-69d7a0d0f57dc59a5f928fb2.m3u8$LR•IPV4•150『线路19』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://rtmp.win:3929/live/epiruslive.m3u8$LR•IPV4•150『线路20』
+https://jmp2.uk/plu-69d7a0dc805a68fcc92037b7.m3u8$LR•IPV4•150『线路20』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://91.246.72.88:8000/play/a008/index.m3u8$LR•IPV4•150『线路21』
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8$LR•IPV4•150『线路21』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8$LR•IPV4•150『线路22』
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8$LR•IPV4•150『线路22』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8$LR•IPV4•150『线路23』
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/da-news-plus/index.m3u8?ads.vf=AyISeWRaL8G$LR•IPV4•150『线路23』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8$LR•IPV4•150『线路24』
+https://mumt01.tangotv.in/HORNBILLTV/index.m3u8$LR•IPV4•150『线路24』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8$LR•IPV4•150『线路25』
+https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8$LR•IPV4•150『线路25』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8$LR•IPV4•150『线路26』
+https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8$LR•IPV4•150『线路26』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg17233-rtvi-rtvius-wisptvus/cb573d19736c648d9cd43b66cef94682847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7acb35544d865a4e7014e942843fa83439fd501e983800f834a8022f1469d96f58385168b8caa599d00e6241b2a4117f8d023e0a331b1de8a7b069f7e26551b5bf2d1f0942f6ddc2b2939fbf0dbaf648d70a4e875db0c5dd804914bf655e008844686bb38cac0bacf527e2ab0cb496418b5f7acf89e5f509329daf890b7017f96f8007d49dd52d42b3d3d83e9d91185ce67f5dc42d4ee3b775bd58349e9d6d8cae7a4995a8f7f8588fe9a2f4d4f6706038859ec8e7b942ad579a6c0162d125d4cbdc556cd82840a643415f5ea34d5030b86d99e8ddb023eb8057139c62ff8016f06af306268974e93fb6d36f84c60902602eb4a3c9643ffa15e96cdbab45c4adfb6c652ef50e1b407d78467c30e121623e998463c494169a28d0c6c604bd12f95bb4d153d7362d9d68f99f5582a063019577efa888555aefe0cad8074bb350375661f07937eba014bb2037248e61ad6bf1a75c77649bf54ed4d3f0f3decae9e8582c5d945ff18b9aaab6c7e6b0831fc5b64576966318712a31f6b07d0fea2c26d9de3271029cf80dbea898521e59561bc02af7509cadd185b005e7f6245cede389716d59a13bd94dd4f8cc1b95214d572f35a50a9d9d23aacb6c1df195bd9ea7609779bd610c07106ce039b7edb853e8be6154e37147465eec214f356b2dadae02e9927a206435de26ab491e6fc87320ea9c104637d5915247e54773e05f78f86334e28bace528c37d1e25bad4d43207f168ef06770b2a8264cd2650423cfc6ec84a2cd0f15b01ed77ddb6f0ea317406ed6c536ee8ca5e0b8e04b5113d2a2a45cb1c3dfd02cb749c991ba0a0f9cf6941b545b5e693352c474c72f94/71/1280x720_3572008/index.m3u8$LR•IPV4•150『线路27』
+https://d2gwqf8gdwq1zs.cloudfront.net/scheduler/scheduleMaster/426.m3u8$LR•IPV4•150『线路27』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8$LR•IPV4•150『线路28』
+https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8$LR•IPV4•150『线路28』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8$LR•IPV4•150『线路29』
+https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8$LR•IPV4•150『线路29』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://eu1.servers10.com:8081/8166/index.m3u8$LR•IPV4•150『线路30』
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8$LR•IPV4•150『线路30』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8$LR•IPV4•150『线路31』
+https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8$LR•IPV4•150『线路31』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://r.jdshipin.com/Nr5jq$LR•IPV4•150『线路32』
+https://mechtvltd-mechplus-1-dk.samsung.wurl.tv/playlist.m3u8$LR•IPV4•150『线路32』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8$LR•IPV4•150『线路33』
+https://mechtvltd-mechplus-1-fi.samsung.wurl.tv/playlist.m3u8$LR•IPV4•150『线路33』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8?ads.vf=JS9U64wz-A8$LR•IPV4•150『线路34』
+https://mechtvltd-mechplus-1-nl.samsung.wurl.tv/playlist.m3u8$LR•IPV4•150『线路34』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-69d7a0d0f57dc59a5f928fb2.m3u8$LR•IPV4•150『线路35』
+https://mechtvltd-mechplus-1-no.samsung.wurl.tv/playlist.m3u8$LR•IPV4•150『线路35』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-69d7a0dc805a68fcc92037b7.m3u8$LR•IPV4•150『线路36』
+https://mechtvltd-mechplus-1-se.samsung.wurl.tv/playlist.m3u8$LR•IPV4•150『线路36』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8$LR•IPV4•150『线路37』
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/manifest.m3u8?ads.vf=Ql0SI2Jofy8$LR•IPV4•150『线路37』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8$LR•IPV4•150『线路38』
+https://streams2.sofast.tv/sofast3/v1/019835b55bef1ebd4704326f84ec86/019835ca63dd1ebd416a5a78cf461/playlist.m3u8$LR•IPV4•150『线路38』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/da-news-plus/index.m3u8?ads.vf=AyISeWRaL8G$LR•IPV4•150『线路39』
+https://jmp2.uk/plu-671645c4529ac900080c9a0b.m3u8$LR•IPV4•150『线路39』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://mumt01.tangotv.in/HORNBILLTV/index.m3u8$LR•IPV4•150『线路40』
+https://jmp2.uk/plu-66337e6ba0a74e000889563b.m3u8$LR•IPV4•150『线路40』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8$LR•IPV4•150『线路41』
+https://jmp2.uk/plu-671656dfdaad7f00085d2133.m3u8$LR•IPV4•150『线路41』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8$LR•IPV4•150『线路42』
+https://jmp2.uk/plu-6716571bc7626f000890c518.m3u8$LR•IPV4•150『线路42』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://d2gwqf8gdwq1zs.cloudfront.net/scheduler/scheduleMaster/426.m3u8$LR•IPV4•150『线路43』
+https://jmp2.uk/plu-67063e78b2ffb10008195d08.m3u8$LR•IPV4•150『线路43』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8$LR•IPV4•150『线路44』
+https://jmp2.uk/plu-671656a37d5da50008de6514.m3u8$LR•IPV4•150『线路44』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8$LR•IPV4•150『线路45』
+https://jmp2.uk/plu-67164414e40c4a00087f450d.m3u8$LR•IPV4•150『线路45』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://zuzenean.goienamedia.eus/goiena-telebista.m3u8$LR•IPV4•150『线路46』
+https://jmp2.uk/plu-671643fc5534bb00089187ad.m3u8$LR•IPV4•150『线路46』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8$LR•IPV4•150『线路47』
+https://jmp2.uk/plu-671655b2daad7f00085d202d.m3u8$LR•IPV4•150『线路47』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://mechtvltd-mechplus-1-dk.samsung.wurl.tv/playlist.m3u8$LR•IPV4•150『线路48』
+https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8$LR•IPV4•150『线路48』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://mechtvltd-mechplus-1-fi.samsung.wurl.tv/playlist.m3u8$LR•IPV4•150『线路49』
+https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8$LR•IPV4•150『线路49』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://mechtvltd-mechplus-1-nl.samsung.wurl.tv/playlist.m3u8$LR•IPV4•150『线路50』
+https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8$LR•IPV4•150『线路50』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://mechtvltd-mechplus-1-no.samsung.wurl.tv/playlist.m3u8$LR•IPV4•150『线路51』
+https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8$LR•IPV4•150『线路51』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://mechtvltd-mechplus-1-se.samsung.wurl.tv/playlist.m3u8$LR•IPV4•150『线路52』
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8$LR•IPV4•150『线路52』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/manifest.m3u8?ads.vf=Ql0SI2Jofy8$LR•IPV4•150『线路53』
+https://cdn-4.pishow.tv/live/1231/master.m3u8$LR•IPV4•150『线路53』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://streams2.sofast.tv/sofast3/v1/019835b55bef1ebd4704326f84ec86/019835ca63dd1ebd416a5a78cf461/playlist.m3u8$LR•IPV4•150『线路54』
+https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8$LR•IPV4•150『线路54』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-671645c4529ac900080c9a0b.m3u8$LR•IPV4•150『线路55』
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8$LR•IPV4•150『线路55』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-66337e6ba0a74e000889563b.m3u8$LR•IPV4•150『线路56』
+https://www.rtmplus.cz/live/1-playlist.m3u8$LR•IPV4•150『线路56』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-671656dfdaad7f00085d2133.m3u8$LR•IPV4•150『线路57』
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8$LR•IPV4•150『线路57』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-6716571bc7626f000890c518.m3u8$LR•IPV4•150『线路58』
+https://jmp2.uk/plu-697a34496f47f39d31ff8bde.m3u8$LR•IPV4•150『线路58』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-67063e78b2ffb10008195d08.m3u8$LR•IPV4•150『线路59』
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8$LR•IPV4•150『线路59』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-671656a37d5da50008de6514.m3u8$LR•IPV4•150『线路60』
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8$LR•IPV4•150『线路60』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-67164414e40c4a00087f450d.m3u8$LR•IPV4•150『线路61』
+https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8$LR•IPV4•150『线路61』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-671643fc5534bb00089187ad.m3u8$LR•IPV4•150『线路62』
+https://cloud.tvomix.com/TVOJESUS/index.m3u8$LR•IPV4•150『线路62』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-671655b2daad7f00085d202d.m3u8$LR•IPV4•150『线路63』
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8$LR•IPV4•150『线路63』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8$LR•IPV4•150『线路64』
+http://103.250.28.74:8000/play/a04x/index.m3u8$LR•IPV4•150『线路64』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8$LR•IPV4•150『线路65』
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8$LR•IPV4•150『线路65』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8$LR•IPV4•150『线路66』
+https://live-manifest.production-public.tubi.io/live/8fa6f1c5-c602-426c-999d-8651180ca7ff/playlist.m3u8$LR•IPV4•150『线路66』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8$LR•IPV4•150『线路67』
+https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8$LR•IPV4•150『线路67』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8$LR•IPV4•150『线路68』
+https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1701491008_b5160000_sleng.m3u8$LR•IPV4•150『线路68』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://cdn-4.pishow.tv/live/1231/master.m3u8$LR•IPV4•150『线路69』
+https://liveingesta318.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8$LR•IPV4•150『线路69』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8$LR•IPV4•150『线路70』
+https://cloudvideo.servers10.com:8081/8030/index.m3u8$LR•IPV4•150『线路70』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8$LR•IPV4•150『线路71』
+https://rtmp.win:3929/live/epiruslive.m3u8$LR•IPV4•150『线路71』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://www.rtmplus.cz/live/1-playlist.m3u8$LR•IPV4•150『线路72』
+http://91.246.72.88:8000/play/a008/index.m3u8$LR•IPV4•150『线路72』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8$LR•IPV4•150『线路73』
+https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8$LR•IPV4•150『线路73』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-697a34496f47f39d31ff8bde.m3u8$LR•IPV4•150『线路74』
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8$LR•IPV4•150『线路74』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://www.sonus.fm:1935/public/stream_source/playlist.m3u8$LR•IPV4•150『线路75』
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8$LR•IPV4•150『线路75』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8$LR•IPV4•150『线路76』
+https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8$LR•IPV4•150『线路76』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8$LR•IPV4•150『线路77』
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8$LR•IPV4•150『线路77』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://cloud.tvomix.com/TVOJESUS/index.m3u8$LR•IPV4•150『线路78』
+https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg17233-rtvi-rtvius-wisptvus/cb573d19736c648d9cd43b66cef94682847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7acb35544d865a4e7014e942843fa83439fd501e983800f834a8022f1469d96f58385168b8caa599d00e6241b2a4117f8d023e0a331b1de8a7b069f7e26551b5bf2d1f0942f6ddc2b2939fbf0dbaf648d70a4e875db0c5dd804914bf655e008844686bb38cac0bacf527e2ab0cb496418b5f7acf89e5f509329daf890b7017f96f8007d49dd52d42b3d3d83e9d91185ce67f5dc42d4ee3b775bd58349e9d6d8cae7a4995a8f7f8588fe9a2f4d4f6706038859ec8e7b942ad579a6c0162d125d4cbdc556cd82840a643415f5ea34d5030b86d99e8ddb023eb8057139c62ff8016f06af306268974e93fb6d36f84c60902602eb4a3c9643ffa15e96cdbab45c4adfb6c652ef50e1b407d78467c30e121623e998463c494169a28d0c6c604bd12f95bb4d153d7362d9d68f99f5582a063019577efa888555aefe0cad8074bb350375661f07937eba014bb2037248e61ad6bf1a75c77649bf54ed4d3f0f3decae9e8582c5d945ff18b9aaab6c7e6b0831fc5b64576966318712a31f6b07d0fea2c26d9de3271029cf80dbea898521e59561bc02af7509cadd185b005e7f6245cede389716d59a13bd94dd4f8cc1b95214d572f35a50a9d9d23aacb6c1df195bd9ea7609779bd610c07106ce039b7edb853e8be6154e37147465eec214f356b2dadae02e9927a206435de26ab491e6fc87320ea9c104637d5915247e54773e05f78f86334e28bace528c37d1e25bad4d43207f168ef06770b2a8264cd2650423cfc6ec84a2cd0f15b01ed77ddb6f0ea317406ed6c536ee8ca5e0b8e04b5113d2a2a45cb1c3dfd02cb749c991ba0a0f9cf6941b545b5e693352c474c72f94/71/1280x720_3572008/index.m3u8$LR•IPV4•150『线路78』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8$LR•IPV4•150『线路79』
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8$LR•IPV4•150『线路79』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://103.250.28.74:8000/play/a04x/index.m3u8$LR•IPV4•150『线路80』
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8$LR•IPV4•150『线路80』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8$LR•IPV4•150『线路81』
+https://eu1.servers10.com:8081/8166/index.m3u8$LR•IPV4•150『线路81』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://live-manifest.production-public.tubi.io/live/8fa6f1c5-c602-426c-999d-8651180ca7ff/playlist.m3u8$LR•IPV4•150『线路82』
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8$LR•IPV4•150『线路82』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8$LR•IPV4•150『线路83』
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8$LR•IPV4•150『线路83』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8$LR•IPV4•150『线路84』
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8$LR•IPV4•150『线路84』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://shoppstream.nsmall.com/IPHONE/mobile.m3u8$LR•IPV4•150『线路85』
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G$LR•IPV4•150『线路85』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G$LR•IPV4•150『线路86』
+https://live.legitpro.co.in/ctvnakdplus/index.m3u8$LR•IPV4•150『线路86』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://live.legitpro.co.in/ctvnakdplus/index.m3u8$LR•IPV4•150『线路87』
+https://htvint.mada.ps/nabluslive/index.m3u8$LR•IPV4•150『线路87』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://htvint.mada.ps/nabluslive/index.m3u8$LR•IPV4•150『线路88』
+https://oan-plus-tcl.amagi.tv/playlist.m3u8$LR•IPV4•150『线路88』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://oan-plus-tcl.amagi.tv/playlist.m3u8$LR•IPV4•150『线路89』
+https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8$LR•IPV4•150『线路89』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8$LR•IPV4•150『线路90』
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8$LR•IPV4•150『线路90』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8$LR•IPV4•150『线路91』
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8$LR•IPV4•150『线路91』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8$LR•IPV4•150『线路92』
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8$LR•IPV4•150『线路92』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8$LR•IPV4•150『线路93』
+http://103.154.3.101:5001/live/960.m3u8$LR•IPV4•150『线路93』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://103.154.3.101:5001/live/960.m3u8$LR•IPV4•150『线路94』
+http://103.154.3.101:5001/live/961.m3u8$LR•IPV4•150『线路94』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://103.154.3.101:5001/live/961.m3u8$LR•IPV4•150『线路95』
+http://103.154.3.101:5001/live/959.m3u8$LR•IPV4•150『线路95』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://103.154.3.101:5001/live/959.m3u8$LR•IPV4•150『线路96』
+http://115.42.65.142:9981/stream/channelid/113328724$LR•IPV4•150『线路96』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://115.42.65.142:9981/stream/channelid/113328724$LR•IPV4•150『线路97』
+https://c.mjh.nz/abc-tv-plus.m3u8$LR•IPV4•150『线路97』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://c.mjh.nz/abc-tv-plus.m3u8$LR•IPV4•150『线路98』
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8$LR•IPV4•150『线路98』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8$LR•IPV4•150『线路99』
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8$LR•IPV4•150『线路99』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8$LR•IPV4•150『线路100』
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8$LR•IPV4•150『线路100』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8$LR•IPV4•150『线路101』
+https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202$LR•IPV4•150『线路101』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202$LR•IPV4•150『线路102』
+http://149.71.34.166:8000/play/a01h/index.m3u8$LR•IPV4•150『线路102』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://149.71.34.166:8000/play/a01h/index.m3u8$LR•IPV4•150『线路103』
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8$LR•IPV4•150『线路103』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8$LR•IPV4•150『线路104』
+http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8$LR•IPV4•150『线路104』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8$LR•IPV4•150『线路105』
+https://mio.zoymilton.com/ZoyPlus/index.m3u8$LR•IPV4•150『线路105』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://mio.zoymilton.com/ZoyPlus/index.m3u8$LR•IPV4•150『线路106』
+https://video.angelustv.ro/hls/angelustv.m3u8$LR•IPV4•150『线路106』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://video.angelustv.ro/hls/angelustv.m3u8$LR•IPV4•150『线路107』
+https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8$LR•IPV4•150『线路107』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8$LR•IPV4•150『线路108』
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8$LR•IPV4•150『线路108』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8$LR•IPV4•150『线路109』
+https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8$LR•IPV4•150『线路109』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8$LR•IPV4•150『线路110』
+https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8$LR•IPV4•150『线路110』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8$LR•IPV4•150『线路111』
+https://bk7l2r2nyx53-hls-live.5centscdn.com/mogpatvplus/2567a5ec9705eb7ac2c984033e06189d.sdp/playlist.m3u8$LR•IPV4•150『线路111』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://bk7l2r2nyx53-hls-live.5centscdn.com/mogpatvplus/2567a5ec9705eb7ac2c984033e06189d.sdp/playlist.m3u8$LR•IPV4•150『线路112』
+https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8$LR•IPV4•150『线路112』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8$LR•IPV4•150『线路113』
+https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8$LR•IPV4•150『线路113』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8$LR•IPV4•150『线路114』
+https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202$LR•IPV4•150『线路114』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202$LR•IPV4•150『线路115』
+https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202$LR•IPV4•150『线路115』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202$LR•IPV4•150『线路116』
+https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202$LR•IPV4•150『线路116』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202$LR•IPV4•150『线路117』
+https://homeplushls.wns.live/hls/stream.m3u8$LR•IPV4•150『线路117』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://homeplushls.wns.live/hls/stream.m3u8$LR•IPV4•150『线路118』
+https://icchls.wns.live/hls/stream.m3u8$LR•IPV4•150『线路118』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://icchls.wns.live/hls/stream.m3u8$LR•IPV4•150『线路119』
+https://euhls.persiana.live/hls/stream.m3u8$LR•IPV4•150『线路119』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://euhls.persiana.live/hls/stream.m3u8$LR•IPV4•150『线路120』
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8$LR•IPV4•150『线路120』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8$LR•IPV4•150『线路121』
+https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202$LR•IPV4•150『线路121』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202$LR•IPV4•150『线路122』
+https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8$LR•IPV4•150『线路122』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8$LR•IPV4•150『线路123』
+http://31.148.48.15/Europa_Plus_HD/index.m3u8$LR•IPV4•150『线路123』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://31.148.48.15/Europa_Plus_HD/index.m3u8$LR•IPV4•150『线路124』
+https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202$LR•IPV4•150『线路124』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202$LR•IPV4•150『线路125』
+http://158.180.39.89:5033/hayatplus.m3u8$LR•IPV4•150『线路125』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://158.180.39.89:5033/hayatplus.m3u8$LR•IPV4•150『线路126』
+https://stream-live.lrt.lt/opus/master.m3u8$LR•IPV4•150『线路126』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://stream-live.lrt.lt/opus/master.m3u8$LR•IPV4•150『线路127』
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8$LR•IPV4•150『线路127』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8$LR•IPV4•150『线路128』
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8$LR•IPV4•150『线路128』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8$LR•IPV4•150『线路129』
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8$LR•IPV4•150『线路129』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8$LR•IPV4•150『线路130』
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6379/index.m3u8$LR•IPV4•150『线路130』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6379/index.m3u8$LR•IPV4•150『线路131』
+https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8$LR•IPV4•150『线路131』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8$LR•IPV4•150『线路132』
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8$LR•IPV4•150『线路132』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8$LR•IPV4•150『线路133』
+https://30a-tv.com/feeds/720p/63.m3u8$LR•IPV4•150『线路133』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://30a-tv.com/feeds/720p/63.m3u8$LR•IPV4•150『线路134』
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8$LR•IPV4•150『线路134』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8$LR•IPV4•150『线路135』
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8$LR•IPV4•150『线路135』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8$LR•IPV4•150『线路136』
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC$LR•IPV4•150『线路136』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC$LR•IPV4•150『线路137』
+https://bloomberg.com/media-manifest/streams/us-event.m3u8$LR•IPV4•150『线路137』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://bloomberg.com/media-manifest/streams/us-event.m3u8$LR•IPV4•150『线路138』
+https://bloomberg.com/media-manifest/streams/politics.m3u8$LR•IPV4•150『线路138』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://bloomberg.com/media-manifest/streams/politics.m3u8$LR•IPV4•150『线路139』
+https://d3serb1fmh623s.cloudfront.net/playlist.m3u8$LR•IPV4•150『线路139』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://d3serb1fmh623s.cloudfront.net/playlist.m3u8$LR•IPV4•150『线路140』
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8$LR•IPV4•150『线路140』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8$LR•IPV4•150『线路141』
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8$LR•IPV4•150『线路141』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8$LR•IPV4•150『线路142』
+https://stream-live.lrt.lt/plius/master.m3u8$LR•IPV4•150『线路142』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://stream-live.lrt.lt/plius/master.m3u8$LR•IPV4•150『线路143』
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8$LR•IPV4•150『线路143』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8$LR•IPV4•150『线路144』
+http://r.jdshipin.com/Nr5jq$LR•IPV4•150『线路144』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
 https://o11.163189.xyz/stream/tvb/tvbp/$LR•IPV4•150『线路145』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
@@ -3046,9 +3062,9 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8$LR•IPV4•150『线路
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
 https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8$LR•IPV4•150『线路147』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8$LR•IPV4•150『线路148』
+https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8$LR•IPV4•150『线路148』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
-https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8$LR•IPV4•150『线路149』
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8$LR•IPV4•150『线路149』
 #EXTINF:-1 tvg-name="US" group-title="•杂货",US
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8$LR•IPV4•150『线路150』
 #EXTINF:-1 tvg-name="WCCA-TV" group-title="•杂货",WCCA-TV
@@ -4140,7 +4156,7 @@ https://vip.ffzy-play7.com/20221115/4681_38b34b56/index.m3u8$LR•IPV4•6『线
 #EXTINF:-1 tvg-name="江湖" group-title="🎞️电影点播",江湖
 https://vip.ffzy-play.com/20221017/1755_28d3688d/index.m3u8$LR•IPV4•6『线路5』
 #EXTINF:-1 tvg-name="江湖" group-title="🎞️电影点播",江湖
-https://live.ottiptv.cc/huya/26355790$LR•IPV4•6『线路6』
+http://cdn.jdshipin.com:8880/huya.php?id=23865142$LR•IPV4•6『线路6』
 #EXTINF:-1 tvg-name="僵尸先生" group-title="🎞️电影点播",僵尸先生
 https://vip.ffzy-play7.com/20230507/24165_799a7b4a/index.m3u8$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="僵尸先生" group-title="🎞️电影点播",僵尸先生
@@ -4456,29 +4472,31 @@ https://vip.ffzy-play7.com/20221129/7714_a0c75de1/index.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="音乐僵尸" group-title="🎞️电影点播",音乐僵尸
 https://vip.ffzy-play6.com/20221207/10627_09b3f2e5/index.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
-https://vip.ffzy-play7.com/20221227/9993_9681b67b/index.m3u8$LR•IPV4•12『线路1』
+https://vip.ffzy-play7.com/20221227/9993_9681b67b/index.m3u8$LR•IPV4•13『线路1』
 #EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
-https://vip.ffzy-play.com/20221015/981_2ca5b5f9/index.m3u8$LR•IPV4•12『线路2』
+https://vip.ffzy-play.com/20221015/981_2ca5b5f9/index.m3u8$LR•IPV4•13『线路2』
 #EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
-https://vip.ffzy-play6.com/20221207/10694_f9088e66/index.m3u8$LR•IPV4•12『线路3』
+https://vip.ffzy-play6.com/20221207/10694_f9088e66/index.m3u8$LR•IPV4•13『线路3』
 #EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
-https://vip.ffzy-play7.com/20221129/7743_4656dd25/index.m3u8$LR•IPV4•12『线路4』
+https://vip.ffzy-play7.com/20221129/7743_4656dd25/index.m3u8$LR•IPV4•13『线路4』
 #EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
-https://vip.ffzy-play6.com/20221112/6371_9b5bf930/index.m3u8$LR•IPV4•12『线路5』
+https://vip.ffzy-play6.com/20221112/6371_9b5bf930/index.m3u8$LR•IPV4•13『线路5』
 #EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
-https://live.ottiptv.cc/yy/1352475619$LR•IPV4•12『线路6』
+http://cdn.jdshipin.com:8880/huya.php?id=23824164$LR•IPV4•13『线路6』
 #EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
-https://live.ottiptv.cc/huya/11601980$LR•IPV4•12『线路7』
+https://live.ottiptv.cc/yy/1352475619$LR•IPV4•13『线路7』
 #EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
-https://live.ottiptv.cc/huya/660000$LR•IPV4•12『线路8』
+https://live.ottiptv.cc/huya/11601980$LR•IPV4•13『线路8』
 #EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
-https://live.ottiptv.cc/huya/24318577$LR•IPV4•12『线路9』
+https://live.ottiptv.cc/huya/660000$LR•IPV4•13『线路9』
 #EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
-https://live.ottiptv.cc/huya/21241839$LR•IPV4•12『线路10』
+https://live.ottiptv.cc/huya/24318577$LR•IPV4•13『线路10』
 #EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
-http://tv.zimtv.cn/tv/player/api/huya.php?id=660000$LR•IPV4•12『线路11』
+https://live.ottiptv.cc/huya/21241839$LR•IPV4•13『线路11』
 #EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
-http://tv.zimtv.cn/tv/player/api/huya.php?id=836458$LR•IPV4•12『线路12』
+http://tv.zimtv.cn/tv/player/api/huya.php?id=660000$LR•IPV4•13『线路12』
+#EXTINF:-1 tvg-name="英雄" group-title="🎞️电影点播",英雄
+http://tv.zimtv.cn/tv/player/api/huya.php?id=836458$LR•IPV4•13『线路13』
 #EXTINF:-1 tvg-name="赢钱专家" group-title="🎞️电影点播",赢钱专家
 https://vip.ffzy-play6.com/20221113/6794_d514b390/index.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="有话好好说" group-title="🎞️电影点播",有话好好说
@@ -4768,61 +4786,61 @@ http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f
 #EXTINF:-1 tvg-name="地理中国" group-title="💓优质个源",地理中国
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=55c967ad5b028914274287da6d72758b$LR•IPV4•120『线路1』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?$LR•IPV6•120『线路1』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?$LR•IPV6•120『线路2』
+https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=55c967ad5b028914274287da6d72758b$LR•IPV4•120『线路2』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b50d2e8951102ee58345f75badda8455$LR•IPV4•120『线路3』
+https://0472.org/hls/cgtnd.m3u8$LR•IPV4•120『线路3』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://0472.org/hls/cgtnd.m3u8$LR•IPV4•120『线路4』
+https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8$LR•IPV4•120『线路4』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236$LR•IPV4•120『线路5』
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=be01103a5fd0e94c2b3b63ebda647540$LR•IPV4•120『线路5』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/2ae73b1a/index.m3u8?q=1752629214236$LR•IPV4•120『线路6』
+http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236$LR•IPV4•120『线路6』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/nb957a7c/index.m3u8?q=1752629214236$LR•IPV4•120『线路7』
+http://free.cnlive.club/channel/2ae73b1a/index.m3u8?q=1752629214236$LR•IPV4•120『线路7』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n3efbe5af/index.m3u8?q=1752629214236$LR•IPV4•120『线路8』
+http://free.cnlive.club/channel/nb957a7c/index.m3u8?q=1752629214236$LR•IPV4•120『线路8』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/1404dfbd/index.m3u8?q=1752629214236$LR•IPV4•120『线路9』
+http://free.cnlive.club/channel/n3efbe5af/index.m3u8?q=1752629214236$LR•IPV4•120『线路9』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n3287f647/index.m3u8?q=1752629214236$LR•IPV4•120『线路10』
+http://free.cnlive.club/channel/1404dfbd/index.m3u8?q=1752629214236$LR•IPV4•120『线路10』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n2517f7dd/index.m3u8?q=1752629214236$LR•IPV4•120『线路11』
+http://free.cnlive.club/channel/n3287f647/index.m3u8?q=1752629214236$LR•IPV4•120『线路11』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/4b914480/index.m3u8?q=1752629214236$LR•IPV4•120『线路12』
+http://free.cnlive.club/channel/n2517f7dd/index.m3u8?q=1752629214236$LR•IPV4•120『线路12』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/6272ba2c/index.m3u8?q=1752629214236$LR•IPV4•120『线路13』
+http://free.cnlive.club/channel/4b914480/index.m3u8?q=1752629214236$LR•IPV4•120『线路13』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/24a7393c/index.m3u8?q=1752629214236$LR•IPV4•120『线路14』
+http://free.cnlive.club/channel/6272ba2c/index.m3u8?q=1752629214236$LR•IPV4•120『线路14』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n75e57aab/index.m3u8?q=1752629214236$LR•IPV4•120『线路15』
+http://free.cnlive.club/channel/24a7393c/index.m3u8?q=1752629214236$LR•IPV4•120『线路15』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n7852a99f/index.m3u8?q=1752629214236$LR•IPV4•120『线路16』
+http://free.cnlive.club/channel/n75e57aab/index.m3u8?q=1752629214236$LR•IPV4•120『线路16』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/356e7ac6/index.m3u8?q=1752629214236$LR•IPV4•120『线路17』
+http://free.cnlive.club/channel/n7852a99f/index.m3u8?q=1752629214236$LR•IPV4•120『线路17』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/359a630b/index.m3u8?q=1752629214236$LR•IPV4•120『线路18』
+http://free.cnlive.club/channel/356e7ac6/index.m3u8?q=1752629214236$LR•IPV4•120『线路18』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n7a0c7aec/index.m3u8?q=1752629214236$LR•IPV4•120『线路19』
+http://free.cnlive.club/channel/359a630b/index.m3u8?q=1752629214236$LR•IPV4•120『线路19』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n6582cfc7/index.m3u8?q=1752629214236$LR•IPV4•120『线路20』
+http://free.cnlive.club/channel/n7a0c7aec/index.m3u8?q=1752629214236$LR•IPV4•120『线路20』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n18e58008/index.m3u8?q=1752629214236$LR•IPV4•120『线路21』
+http://free.cnlive.club/channel/n6582cfc7/index.m3u8?q=1752629214236$LR•IPV4•120『线路21』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/6c975854/index.m3u8?q=1752629214236$LR•IPV4•120『线路22』
+http://free.cnlive.club/channel/n18e58008/index.m3u8?q=1752629214236$LR•IPV4•120『线路22』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n28af27dd/index.m3u8?q=1752629214236$LR•IPV4•120『线路23』
+http://free.cnlive.club/channel/6c975854/index.m3u8?q=1752629214236$LR•IPV4•120『线路23』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/264e2d58/index.m3u8?q=1752629214236$LR•IPV4•120『线路24』
+http://free.cnlive.club/channel/n28af27dd/index.m3u8?q=1752629214236$LR•IPV4•120『线路24』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/2631a9ae/index.m3u8?q=1752629214236$LR•IPV4•120『线路25』
+http://free.cnlive.club/channel/264e2d58/index.m3u8?q=1752629214236$LR•IPV4•120『线路25』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037$LR•IPV4•120『线路26』
+http://free.cnlive.club/channel/2631a9ae/index.m3u8?q=1752629214236$LR•IPV4•120『线路26』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$LR•IPV4•120『线路27』
+http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037$LR•IPV4•120『线路27』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8$LR•IPV4•120『线路28』
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$LR•IPV4•120『线路28』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
 http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8$LR•IPV4•120『线路29』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
@@ -4868,85 +4886,85 @@ https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
 p3p://167.114.175.6:55331/623baf7a0004e5d79c2047cd46107be2$LR•IPV4•120『线路50』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8$LR•IPV4•120『线路51』
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RD16KOPRXE0O9L4VAXVJ/hls3/now,-1m/m.m3u8?ads.vf=EoTB4HqnHbi$LR•IPV4•120『线路51』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8$LR•IPV4•120『线路52』
+https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8$LR•IPV4•120『线路52』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8$LR•IPV4•120『线路53』
+https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8$LR•IPV4•120『线路53』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8$LR•IPV4•120『线路54』
+https://jmp2.uk/plu-6964d2179ba4ac18051a18ce.m3u8$LR•IPV4•120『线路54』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8$LR•IPV4•120『线路55』
+https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8$LR•IPV4•120『线路55』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8$LR•IPV4•120『线路56』
+https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8$LR•IPV4•120『线路56』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8$LR•IPV4•120『线路57』
+https://jmp2.uk/plu-68750875759366af05a151ce.m3u8$LR•IPV4•120『线路57』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8$LR•IPV4•120『线路58』
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8$LR•IPV4•120『线路58』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8$LR•IPV4•120『线路59』
+https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8$LR•IPV4•120『线路59』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8$LR•IPV4•120『线路60』
+https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8$LR•IPV4•120『线路60』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8$LR•IPV4•120『线路61』
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8$LR•IPV4•120『线路61』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8$LR•IPV4•120『线路62』
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8$LR•IPV4•120『线路62』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8$LR•IPV4•120『线路63』
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8$LR•IPV4•120『线路63』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8$LR•IPV4•120『线路64』
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8$LR•IPV4•120『线路64』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8$LR•IPV4•120『线路65』
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8$LR•IPV4•120『线路65』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8$LR•IPV4•120『线路66』
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8$LR•IPV4•120『线路66』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8$LR•IPV4•120『线路67』
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8$LR•IPV4•120『线路67』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://cdnapisec.kaltura.com/p/5571652/sp/5571652/playManifest/entryId/1_no7nfr0h/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8$LR•IPV4•120『线路68』
+https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8$LR•IPV4•120『线路68』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8$LR•IPV4•120『线路69』
+https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8$LR•IPV4•120『线路69』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RD16KOPRXE0O9L4VAXVJ/hls3/now,-1m/m.m3u8?ads.vf=EoTB4HqnHbi$LR•IPV4•120『线路70』
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312$LR•IPV4•120『线路70』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8$LR•IPV4•120『线路71』
+https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8$LR•IPV4•120『线路71』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8$LR•IPV4•120『线路72』
+https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8$LR•IPV4•120『线路72』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-6964d2179ba4ac18051a18ce.m3u8$LR•IPV4•120『线路73』
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8$LR•IPV4•120『线路73』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8$LR•IPV4•120『线路74』
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8$LR•IPV4•120『线路74』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8$LR•IPV4•120『线路75』
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8$LR•IPV4•120『线路75』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-68750875759366af05a151ce.m3u8$LR•IPV4•120『线路76』
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8$LR•IPV4•120『线路76』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8$LR•IPV4•120『线路77』
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8$LR•IPV4•120『线路77』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8$LR•IPV4•120『线路78』
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8$LR•IPV4•120『线路78』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8$LR•IPV4•120『线路79』
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8$LR•IPV4•120『线路79』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8$LR•IPV4•120『线路80』
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8$LR•IPV4•120『线路80』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8$LR•IPV4•120『线路81』
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8$LR•IPV4•120『线路81』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8$LR•IPV4•120『线路82』
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8$LR•IPV4•120『线路82』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8$LR•IPV4•120『线路83』
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8$LR•IPV4•120『线路83』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8$LR•IPV4•120『线路84』
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8$LR•IPV4•120『线路84』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8$LR•IPV4•120『线路85』
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8$LR•IPV4•120『线路85』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-65df72db18036500081a8292.m3u8$LR•IPV4•120『线路86』
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8$LR•IPV4•120『线路86』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8$LR•IPV4•120『线路87』
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8$LR•IPV4•120『线路87』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8$LR•IPV4•120『线路88』
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8$LR•IPV4•120『线路88』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312$LR•IPV4•120『线路89』
+https://cdnapisec.kaltura.com/p/5571652/sp/5571652/playManifest/entryId/1_no7nfr0h/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8$LR•IPV4•120『线路89』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8$LR•IPV4•120『线路90』
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8$LR•IPV4•120『线路90』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$LR•IPV4•120『线路91』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
@@ -5248,149 +5266,149 @@ p3p://167.114.175.6:55331/624888bb000b784ace507da37b7906ea$LR•IPV4
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
 p3p://167.114.175.6:55331/64c7ce3f000afa423db36d3f378c386d$LR•IPV4•134『线路1』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://streaming101tv.es:19360/cadiz/cadiz.m3u8$LR•IPV4•134『线路2』
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8?ads.vf=0RN164SO2bG$LR•IPV4•134『线路2』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8$LR•IPV4•134『线路3』
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/8WOSAE6HHWJY8KP8BW2C/hls3/now,-1m/m.m3u8?ads.vf=7-VUi572FgK$LR•IPV4•134『线路3』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8$LR•IPV4•134『线路4』
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/P6T1SCG4XU9MM36TQSB5/hls3/now,-1m/m.m3u8?ads.vf=4TlF3ABNLHW$LR•IPV4•134『线路4』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://ncdn.telewebion.ir/alborz/live/playlist.m3u8$LR•IPV4•134『线路5』
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=13411$LR•IPV4•134『线路5』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8$LR•IPV4•134『线路6』
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3$LR•IPV4•134『线路6』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-http://186.121.206.197/live/daniel/index.m3u8$LR•IPV4•134『线路7』
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8$LR•IPV4•134『线路7』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA$LR•IPV4•134『线路8』
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8$LR•IPV4•134『线路8』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8$LR•IPV4•134『线路9』
+https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8$LR•IPV4•134『线路9』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8$LR•IPV4•134『线路10』
+https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8$LR•IPV4•134『线路10』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8$LR•IPV4•134『线路11』
+https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8$LR•IPV4•134『线路11』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8$LR•IPV4•134『线路12』
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103$LR•IPV4•134『线路12』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://s.emisoras.tv:8081/sierradecadiz/index.m3u8$LR•IPV4•134『线路13』
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310$LR•IPV4•134『线路13』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8$LR•IPV4•134『线路14』
+http://80.79.6.221:25461/smash/public/25$LR•IPV4•134『线路14』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8$LR•IPV4•134『线路15』
+https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8$LR•IPV4•134『线路15』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://streaming.cloud.innovasur.es/mmj2/index.m3u8$LR•IPV4•134『线路16』
+https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8$LR•IPV4•134『线路16』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://streaming.cloud.innovasur.es/mmj/index.m3u8$LR•IPV4•134『线路17』
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8$LR•IPV4•134『线路17』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8$LR•IPV4•134『线路18』
+https://mhz-samsung-linear-us.samsung.wurl.tv/playlist.m3u8$LR•IPV4•134『线路18』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8$LR•IPV4•134『线路19』
+https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8$LR•IPV4•134『线路19』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8$LR•IPV4•134『线路20』
+http://23.237.104.106:8080/USA_STARZ/index.m3u8$LR•IPV4•134『线路20』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8$LR•IPV4•134『线路21』
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8$LR•IPV4•134『线路21』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8$LR•IPV4•134『线路22』
+https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8$LR•IPV4•134『线路22』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8$LR•IPV4•134『线路23』
+https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8$LR•IPV4•134『线路23』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8$LR•IPV4•134『线路24』
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8$LR•IPV4•134『线路24』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8$LR•IPV4•134『线路25』
+https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8$LR•IPV4•134『线路25』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8$LR•IPV4•134『线路26』
+https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8$LR•IPV4•134『线路26』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://ondacadiztv.es:30443/octv/24h/playlist.m3u8$LR•IPV4•134『线路27』
+https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8$LR•IPV4•134『线路27』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://www.redpat.tv/proxylpz/index.m3u8$LR•IPV4•134『线路28』
+https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8$LR•IPV4•134『线路28』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://master.tucableip.com/muxredunosc/index.m3u8$LR•IPV4•134『线路29』
+https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8$LR•IPV4•134『线路29』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://stream.streaming4u.hu/RegioPluszTV/index.m3u8$LR•IPV4•134『线路30』
+https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8$LR•IPV4•134『线路30』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://ncdn.telewebion.ir/sabz/live/playlist.m3u8$LR•IPV4•134『线路31』
+https://stream.ztv.zp.ua/hls/live.m3u8$LR•IPV4•134『线路31』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://host.streamingnation.live/p/3345/hybrid/play.m3u8$LR•IPV4•134『线路32』
+https://streaming101tv.es:19360/cadiz/cadiz.m3u8$LR•IPV4•134『线路32』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8$LR•IPV4•134『线路33』
+https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8$LR•IPV4•134『线路33』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-http://rtmp.info:1935/soltv/envivo/playlist.m3u8$LR•IPV4•134『线路34』
+https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8$LR•IPV4•134『线路34』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8$LR•IPV4•134『线路35』
+https://ncdn.telewebion.ir/alborz/live/playlist.m3u8$LR•IPV4•134『线路35』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8$LR•IPV4•134『线路36』
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8$LR•IPV4•134『线路36』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8$LR•IPV4•134『线路37』
+http://186.121.206.197/live/daniel/index.m3u8$LR•IPV4•134『线路37』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8$LR•IPV4•134『线路38』
+http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA$LR•IPV4•134『线路38』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8$LR•IPV4•134『线路39』
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8$LR•IPV4•134『线路39』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8$LR•IPV4•134『线路40』
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8$LR•IPV4•134『线路40』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://xtream.videx.lol/Yoshiro/admin/338.m3u8$LR•IPV4•134『线路41』
+https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8$LR•IPV4•134『线路41』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8$LR•IPV4•134『线路42』
+https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8$LR•IPV4•134『线路42』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8$LR•IPV4•134『线路43』
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8$LR•IPV4•134『线路43』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8?ads.vf=0RN164SO2bG$LR•IPV4•134『线路44』
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8$LR•IPV4•134『线路44』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/8WOSAE6HHWJY8KP8BW2C/hls3/now,-1m/m.m3u8?ads.vf=7-VUi572FgK$LR•IPV4•134『线路45』
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8$LR•IPV4•134『线路45』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/P6T1SCG4XU9MM36TQSB5/hls3/now,-1m/m.m3u8?ads.vf=4TlF3ABNLHW$LR•IPV4•134『线路46』
+https://streaming.cloud.innovasur.es/mmj2/index.m3u8$LR•IPV4•134『线路46』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=13411$LR•IPV4•134『线路47』
+https://streaming.cloud.innovasur.es/mmj/index.m3u8$LR•IPV4•134『线路47』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3$LR•IPV4•134『线路48』
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8$LR•IPV4•134『线路48』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8$LR•IPV4•134『线路49』
+https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8$LR•IPV4•134『线路49』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8$LR•IPV4•134『线路50』
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8$LR•IPV4•134『线路50』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8$LR•IPV4•134『线路51』
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8$LR•IPV4•134『线路51』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8$LR•IPV4•134『线路52』
+https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8$LR•IPV4•134『线路52』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8$LR•IPV4•134『线路53』
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8$LR•IPV4•134『线路53』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103$LR•IPV4•134『线路54』
+https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8$LR•IPV4•134『线路54』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310$LR•IPV4•134『线路55』
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8$LR•IPV4•134『线路55』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-http://80.79.6.221:25461/smash/public/25$LR•IPV4•134『线路56』
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8$LR•IPV4•134『线路56』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8$LR•IPV4•134『线路57』
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8$LR•IPV4•134『线路57』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8$LR•IPV4•134『线路58』
+https://www.redpat.tv/proxylpz/index.m3u8$LR•IPV4•134『线路58』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8$LR•IPV4•134『线路59』
+https://master.tucableip.com/muxredunosc/index.m3u8$LR•IPV4•134『线路59』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://mhz-samsung-linear-us.samsung.wurl.tv/playlist.m3u8$LR•IPV4•134『线路60』
+https://stream.streaming4u.hu/RegioPluszTV/index.m3u8$LR•IPV4•134『线路60』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8$LR•IPV4•134『线路61』
+https://ncdn.telewebion.ir/sabz/live/playlist.m3u8$LR•IPV4•134『线路61』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-http://23.237.104.106:8080/USA_STARZ/index.m3u8$LR•IPV4•134『线路62』
+https://host.streamingnation.live/p/3345/hybrid/play.m3u8$LR•IPV4•134『线路62』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8$LR•IPV4•134『线路63』
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8$LR•IPV4•134『线路63』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8$LR•IPV4•134『线路64』
+http://rtmp.info:1935/soltv/envivo/playlist.m3u8$LR•IPV4•134『线路64』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8$LR•IPV4•134『线路65』
+http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8$LR•IPV4•134『线路65』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8$LR•IPV4•134『线路66』
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8$LR•IPV4•134『线路66』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8$LR•IPV4•134『线路67』
+https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8$LR•IPV4•134『线路67』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8$LR•IPV4•134『线路68』
+https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8$LR•IPV4•134『线路68』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8$LR•IPV4•134『线路69』
+https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8$LR•IPV4•134『线路69』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8$LR•IPV4•134『线路70』
+https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8$LR•IPV4•134『线路70』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8$LR•IPV4•134『线路71』
+https://xtream.videx.lol/Yoshiro/admin/338.m3u8$LR•IPV4•134『线路71』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8$LR•IPV4•134『线路72』
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8$LR•IPV4•134『线路72』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
-https://stream.ztv.zp.ua/hls/live.m3u8$LR•IPV4•134『线路73』
+https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8$LR•IPV4•134『线路73』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8$LR•IPV4•134『线路74』
 #EXTINF:-1 tvg-name="Z" group-title="🍹定制P3P☕️",Z
@@ -5676,15 +5694,15 @@ p3p://167.114.175.6:55331/64450b180002b23d3eeb784a0aa62e20$LR•IPV4
 #EXTINF:-1 tvg-name="EVE" group-title="🍹定制P3P☕️",EVE
 p3p://167.114.175.6:55331/6445172e000920783f1aafee754f43e4$LR•IPV4•7『线路1』
 #EXTINF:-1 tvg-name="EVE" group-title="🍹定制P3P☕️",EVE
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8$LR•IPV4•7『线路2』
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8$LR•IPV4•7『线路2』
 #EXTINF:-1 tvg-name="EVE" group-title="🍹定制P3P☕️",EVE
-https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8$LR•IPV4•7『线路3』
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8$LR•IPV4•7『线路3』
 #EXTINF:-1 tvg-name="EVE" group-title="🍹定制P3P☕️",EVE
-https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8$LR•IPV4•7『线路4』
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8$LR•IPV4•7『线路4』
 #EXTINF:-1 tvg-name="EVE" group-title="🍹定制P3P☕️",EVE
-http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8$LR•IPV4•7『线路5』
+https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8$LR•IPV4•7『线路5』
 #EXTINF:-1 tvg-name="EVE" group-title="🍹定制P3P☕️",EVE
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8$LR•IPV4•7『线路6』
+https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8$LR•IPV4•7『线路6』
 #EXTINF:-1 tvg-name="EVE" group-title="🍹定制P3P☕️",EVE
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8$LR•IPV4•7『线路7』
 #EXTINF:-1 tvg-name="Classica古典音乐" group-title="🍹定制P3P☕️",Classica古典音乐
@@ -5808,161 +5826,161 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 #EXTINF:-1 tvg-name="CCTV兵器" group-title="🌐央视频道",CCTV兵器
 http://107.150.60.122/live/gfjs.m3u8$LR•IPV4•6『线路6』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1781478000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2097d7b0012cfc5f09c9922291ac5259&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•275『线路1』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?$LR•IPV6•275『线路1』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://piccpndks.v.kcdnvip.com/audio/cctv6_2/index.m3u8$LR•IPV4•275『线路2』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?$LR•IPV6•275『线路2』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•275『线路3』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?$LR•IPV6•275『线路3』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://183.196.25.171:808/hls/11/index.m3u8$LR•IPV4•275『线路4』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?$LR•IPV6•275『线路4』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://183.196.25.171:808/hls/93/index.m3u8$LR•IPV4•275『线路5』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?$LR•IPV6•275『线路5』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1781420400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-70377ac477c5b8766812ff30e22801ad&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•275『线路6』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?$LR•IPV6•275『线路6』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?$LR•IPV6•275『线路7』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?$LR•IPV6•275『线路7』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?$LR•IPV6•275『线路8』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?$LR•IPV6•275『线路8』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?$LR•IPV6•275『线路9』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?$LR•IPV6•275『线路9』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?$LR•IPV6•275『线路10』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?$LR•IPV6•275『线路10』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?$LR•IPV6•275『线路11』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?$LR•IPV6•275『线路11』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?$LR•IPV6•275『线路12』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?$LR•IPV6•275『线路12』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?$LR•IPV6•275『线路13』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?$LR•IPV6•275『线路13』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?$LR•IPV6•275『线路14』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?$LR•IPV6•275『线路14』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?$LR•IPV6•275『线路15』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?$LR•IPV6•275『线路15』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?$LR•IPV6•275『线路16』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?$LR•IPV6•275『线路16』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?$LR•IPV6•275『线路17』
+http://222.223.41.27:8888/hls/1/index.m3u8$LR•IPV4•275『线路17』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?$LR•IPV6•275『线路18』
+http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$LR•IPV4•275『线路18』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?$LR•IPV6•275『线路19』
+http://207.56.13.146:81/cdnlive/cctv1.m3u8$LR•IPV4•275『线路19』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?$LR•IPV6•275『线路20』
+http://74.91.26.218:82/live/cctv2hd.m3u8$LR•IPV4•275『线路20』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?$LR•IPV6•275『线路21』
+http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路21』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?$LR•IPV6•275『线路22』
+http://222.223.41.27:8888/hls/2/index.m3u8$LR•IPV4•275『线路22』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/1/index.m3u8$LR•IPV4•275『线路23』
+http://207.56.13.146:81/cdnlive/cctv2.m3u8$LR•IPV4•275『线路23』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$LR•IPV4•275『线路24』
+http://39.165.39.49:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路24』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv1.m3u8$LR•IPV4•275『线路25』
+http://222.223.41.27:8888/hls/3/index.m3u8$LR•IPV4•275『线路25』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv2hd.m3u8$LR•IPV4•275『线路26』
+http://207.56.13.146:81/cdnlive/cctv3.m3u8$LR•IPV4•275『线路26』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路27』
+http://173.208.212.130:8181/720p/cctv3.m3u8$LR•IPV4•275『线路27』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/2/index.m3u8$LR•IPV4•275『线路28』
+http://39.165.39.49:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路28』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv2.m3u8$LR•IPV4•275『线路29』
+http://198.204.228.26/live/cctv4hd.m3u8$LR•IPV4•275『线路29』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://39.165.39.49:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路30』
+http://173.208.212.130:8181/720p/cctv4.m3u8$LR•IPV4•275『线路30』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/3/index.m3u8$LR•IPV4•275『线路31』
+http://39.165.39.49:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路31』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv3.m3u8$LR•IPV4•275『线路32』
+http://222.223.41.27:8888/hls/5/index.m3u8$LR•IPV4•275『线路32』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv3.m3u8$LR•IPV4•275『线路33』
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$LR•IPV4•275『线路33』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://39.165.39.49:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路34』
+http://39.165.39.49:85/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路34』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://198.204.228.26/live/cctv4hd.m3u8$LR•IPV4•275『线路35』
+http://74.91.26.218:82/live/cctv5p.m3u8$LR•IPV4•275『线路35』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv4.m3u8$LR•IPV4•275『线路36』
+http://69.30.245.50/live/cctv6.m3u8$LR•IPV4•275『线路36』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://39.165.39.49:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路37』
+http://173.208.212.130:8181/720p/cctv6.m3u8$LR•IPV4•275『线路37』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/5/index.m3u8$LR•IPV4•275『线路38』
+http://222.223.41.27:8888/hls/7/index.m3u8$LR•IPV4•275『线路38』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$LR•IPV4•275『线路39』
+http://74.91.26.218:82/live/cctv7hd.m3u8$LR•IPV4•275『线路39』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://39.165.39.49:85/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路40』
+http://222.223.41.27:8888/hls/8/index.m3u8$LR•IPV4•275『线路40』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv5p.m3u8$LR•IPV4•275『线路41』
+http://74.91.26.218:82/live/cctv8hd.m3u8$LR•IPV4•275『线路41』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://69.30.245.50/live/cctv6.m3u8$LR•IPV4•275『线路42』
+http://192.151.150.154/live/cctv8k.m3u8$LR•IPV4•275『线路42』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv6.m3u8$LR•IPV4•275『线路43』
+http://207.56.13.146:81/cdnlive/cctv8.m3u8$LR•IPV4•275『线路43』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/7/index.m3u8$LR•IPV4•275『线路44』
+http://39.165.39.49:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路44』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv7hd.m3u8$LR•IPV4•275『线路45』
+http://222.223.41.27:8888/hls/9/index.m3u8$LR•IPV4•275『线路45』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/8/index.m3u8$LR•IPV4•275『线路46』
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$LR•IPV4•275『线路46』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv8hd.m3u8$LR•IPV4•275『线路47』
+https://xykt-fix.github.io/Y77.m3u8$LR•IPV4•275『线路47』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv8k.m3u8$LR•IPV4•275『线路48』
+http://39.165.39.49:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路48』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv8.m3u8$LR•IPV4•275『线路49』
+http://207.56.13.146:81/cdnlive/cctv10.m3u8$LR•IPV4•275『线路49』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://39.165.39.49:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路50』
+http://222.223.41.27:8888/hls/11/index.m3u8$LR•IPV4•275『线路50』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/9/index.m3u8$LR•IPV4•275『线路51』
+http://74.91.26.218:82/live/cctv11hd.m3u8$LR•IPV4•275『线路51』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$LR•IPV4•275『线路52』
+http://39.165.39.49:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路52』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://xykt-fix.github.io/Y77.m3u8$LR•IPV4•275『线路53』
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub$LR•IPV4•275『线路53』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://39.165.39.49:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路54』
+http://113.25.252.226:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路54』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv10.m3u8$LR•IPV4•275『线路55』
+https://event.pull.hebtv.com/jishi/cp1.m3u8$LR•IPV4•275『线路55』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/11/index.m3u8$LR•IPV4•275『线路56』
+http://39.165.39.49:85/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路56』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv11hd.m3u8$LR•IPV4•275『线路57』
+http://222.223.41.27:8888/hls/14/index.m3u8$LR•IPV4•275『线路57』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://39.165.39.49:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路58』
+https://event.pull.hebtv.com/jishi/cp2.m3u8$LR•IPV4•275『线路58』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub$LR•IPV4•275『线路59』
+http://74.91.26.218:82/live/cctv14hd.m3u8$LR•IPV4•275『线路59』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://113.25.252.226:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路60』
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$LR•IPV4•275『线路60』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://event.pull.hebtv.com/jishi/cp1.m3u8$LR•IPV4•275『线路61』
+https://xykt-fix.github.io/play/a02e/index.m3u8$LR•IPV4•275『线路61』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://39.165.39.49:85/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路62』
+http://39.165.39.49:85/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路62』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/14/index.m3u8$LR•IPV4•275『线路63』
+http://207.56.13.146:81/cdnlive/cctv15.m3u8$LR•IPV4•275『线路63』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://event.pull.hebtv.com/jishi/cp2.m3u8$LR•IPV4•275『线路64』
+http://192.151.150.154/live/cctv15hd.m3u8$LR•IPV4•275『线路64』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv14hd.m3u8$LR•IPV4•275『线路65』
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub$LR•IPV4•275『线路65』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$LR•IPV4•275『线路66』
+http://74.91.26.218:82/live/cctv16hd.m3u8$LR•IPV4•275『线路66』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://xykt-fix.github.io/play/a02e/index.m3u8$LR•IPV4•275『线路67』
+http://74.91.26.218:82/live/cctv17hd.m3u8$LR•IPV4•275『线路67』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://39.165.39.49:85/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•275『线路68』
+http://173.208.212.130:8181/720p/cctv17.m3u8$LR•IPV4•275『线路68』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv15.m3u8$LR•IPV4•275『线路69』
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1781478000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2097d7b0012cfc5f09c9922291ac5259&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•275『线路69』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv15hd.m3u8$LR•IPV4•275『线路70』
+https://piccpndks.v.kcdnvip.com/audio/cctv6_2/index.m3u8$LR•IPV4•275『线路70』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub$LR•IPV4•275『线路71』
+https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8$LR•IPV4•275『线路71』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv16hd.m3u8$LR•IPV4•275『线路72』
+https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$LR•IPV4•275『线路72』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv17hd.m3u8$LR•IPV4•275『线路73』
+https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8$LR•IPV4•275『线路73』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv17.m3u8$LR•IPV4•275『线路74』
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1781488800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-e8132646d448bf700583ee2f0eb588ac&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•275『线路74』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8$LR•IPV4•275『线路75』
+http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•275『线路75』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8$LR•IPV4•275『线路76』
+http://183.196.25.171:808/hls/11/index.m3u8$LR•IPV4•275『线路76』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$LR•IPV4•275『线路77』
+http://183.196.25.171:808/hls/93/index.m3u8$LR•IPV4•275『线路77』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8$LR•IPV4•275『线路78』
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1781420400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-70377ac477c5b8766812ff30e22801ad&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•275『线路78』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
 http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub$LR•IPV4•275『线路79』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
@@ -6006,17 +6024,17 @@ http://xc.mfykeke.top:35455/nptv/cctv4k.m3u8$LR•IPV4•275『线路98』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
 http://xc.mfykeke.top:35455/nptv/cctv8k.m3u8$LR•IPV4•275『线路99』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://69.30.245.50/live/cctv1.m3u8$LR•IPV4•275『线路100』
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8$LR•IPV4•275『线路100』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv1hd.m3u8$LR•IPV4•275『线路101』
+http://69.30.245.50/live/cctv1.m3u8$LR•IPV4•275『线路101』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$LR•IPV4•275『线路102』
+http://74.91.26.218:82/live/cctv1hd.m3u8$LR•IPV4•275『线路102』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv4hd.m3u8$LR•IPV4•275『线路103』
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$LR•IPV4•275『线路103』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$LR•IPV4•275『线路104』
+http://74.91.26.218:82/live/cctv4hd.m3u8$LR•IPV4•275『线路104』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8$LR•IPV4•275『线路105』
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$LR•IPV4•275『线路105』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
 http://go.bkpcp.top/mg/cctv13$LR•IPV4•275『线路106』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
@@ -6358,19 +6376,25 @@ http://107.150.60.122/live/ysjp.m3u8$LR•IPV4•275『线路274』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
 http://107.150.60.122/live/nxss.m3u8$LR•IPV4•275『线路275』
 #EXTINF:-1 tvg-name="周星星" group-title="明星",周星星
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11336587$LR•IPV4
+http://live.metshop.top/huya/11336587?cdn=alicdn$LR•IPV4•2『线路1』
+#EXTINF:-1 tvg-name="周星星" group-title="明星",周星星
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11336587$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="周星驰" group-title="明星",周星驰
-https://live.ottiptv.cc/huya/11336587$LR•IPV4•4『线路1』
+http://cdn.jdshipin.com:8880/huya.php?id=11342412$LR•IPV4•5『线路1』
 #EXTINF:-1 tvg-name="周星驰" group-title="明星",周星驰
-http://173.208.212.130:8181/1080p/vlzxc.m3u8$LR•IPV4•4『线路2』
+https://live.ottiptv.cc/huya/11336587$LR•IPV4•5『线路2』
 #EXTINF:-1 tvg-name="周星驰" group-title="明星",周星驰
-http://192.151.150.154/live/lbzxc.m3u8$LR•IPV4•4『线路3』
+http://173.208.212.130:8181/1080p/vlzxc.m3u8$LR•IPV4•5『线路3』
 #EXTINF:-1 tvg-name="周星驰" group-title="明星",周星驰
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzxc$LR•IPV4•4『线路4』
+http://192.151.150.154/live/lbzxc.m3u8$LR•IPV4•5『线路4』
+#EXTINF:-1 tvg-name="周星驰" group-title="明星",周星驰
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzxc$LR•IPV4•5『线路5』
 #EXTINF:-1 tvg-name="李连杰" group-title="明星",李连杰
-https://live.ottiptv.cc/huya/11342390$LR•IPV4•2『线路1』
+http://cdn.jdshipin.com:8880/huya.php?id=11342390$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="李连杰" group-title="明星",李连杰
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11342390$LR•IPV4•2『线路2』
+https://live.ottiptv.cc/huya/11342390$LR•IPV4•3『线路2』
+#EXTINF:-1 tvg-name="李连杰" group-title="明星",李连杰
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342390$LR•IPV4•3『线路3』
 #EXTINF:-1 tvg-name="洪金宝" group-title="明星",洪金宝
 https://live.ottiptv.cc/huya/11279251$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="洪金宝" group-title="明星",洪金宝
@@ -6382,57 +6406,67 @@ https://live.ottiptv.cc/huya/11342429$LR•IPV4•3『线路2』
 #EXTINF:-1 tvg-name="梁家辉" group-title="明星",梁家辉
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342429$LR•IPV4•3『线路3』
 #EXTINF:-1 tvg-name="刘德华" group-title="明星",刘德华
-http://epg.112114.xyz/douyu/2516864$LR•IPV4•5『线路1』
+http://epg.112114.xyz/douyu/2516864$LR•IPV4•6『线路1』
 #EXTINF:-1 tvg-name="刘德华" group-title="明星",刘德华
-http://live.metshop.top/huya/11342424?cdn=alicdn$LR•IPV4•5『线路2』
+http://cdn.jdshipin.com:8880/huya.php?id=11342424$LR•IPV4•6『线路2』
 #EXTINF:-1 tvg-name="刘德华" group-title="明星",刘德华
-https://live.ottiptv.cc/huya/11342424$LR•IPV4•5『线路3』
+http://live.metshop.top/huya/11342424?cdn=alicdn$LR•IPV4•6『线路3』
 #EXTINF:-1 tvg-name="刘德华" group-title="明星",刘德华
-https://k0ub7yffy10yfz.djvod.ndcimgs.com/upic/2023/07/25/08/BMjAyMzA3MjUwODU3MzRfMzYxMjUyNDA3MV8xMDg4MTUzNTczMzFfMF8z_b_Bf67605afd92859a39e607f504f43c9f7.mp4$LR•IPV4•5『线路4』
+https://live.ottiptv.cc/huya/11342424$LR•IPV4•6『线路4』
 #EXTINF:-1 tvg-name="刘德华" group-title="明星",刘德华
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11342424$LR•IPV4•5『线路5』
+https://k0ub7yffy10yfz.djvod.ndcimgs.com/upic/2023/07/25/08/BMjAyMzA3MjUwODU3MzRfMzYxMjUyNDA3MV8xMDg4MTUzNTczMzFfMF8z_b_Bf67605afd92859a39e607f504f43c9f7.mp4$LR•IPV4•6『线路5』
+#EXTINF:-1 tvg-name="刘德华" group-title="明星",刘德华
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342424$LR•IPV4•6『线路6』
 #EXTINF:-1 tvg-name="星爷" group-title="明星",星爷
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342412$LR•IPV4
 #EXTINF:-1 tvg-name="成龙" group-title="明星",成龙
-https://live.ottiptv.cc/huya/11342386$LR•IPV4•6『线路1』
+http://cdn.jdshipin.com:8880/huya.php?id=11342386$LR•IPV4•7『线路1』
 #EXTINF:-1 tvg-name="成龙" group-title="明星",成龙
-https://live.ottiptv.cc/huya/11352946$LR•IPV4•6『线路2』
+https://live.ottiptv.cc/huya/11342386$LR•IPV4•7『线路2』
 #EXTINF:-1 tvg-name="成龙" group-title="明星",成龙
-http://173.208.212.130:8181/1080p/vlcl.m3u8$LR•IPV4•6『线路3』
+https://live.ottiptv.cc/huya/11352946$LR•IPV4•7『线路3』
 #EXTINF:-1 tvg-name="成龙" group-title="明星",成龙
-http://192.151.150.154/live/lbcl.m3u8$LR•IPV4•6『线路4』
+http://173.208.212.130:8181/1080p/vlcl.m3u8$LR•IPV4•7『线路4』
 #EXTINF:-1 tvg-name="成龙" group-title="明星",成龙
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbcl$LR•IPV4•6『线路5』
+http://192.151.150.154/live/lbcl.m3u8$LR•IPV4•7『线路5』
 #EXTINF:-1 tvg-name="成龙" group-title="明星",成龙
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11342386$LR•IPV4•6『线路6』
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbcl$LR•IPV4•7『线路6』
+#EXTINF:-1 tvg-name="成龙" group-title="明星",成龙
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342386$LR•IPV4•7『线路7』
 #EXTINF:-1 tvg-name="王晶" group-title="明星",王晶
-https://live.ottiptv.cc/huya/11602058$LR•IPV4•2『线路1』
+http://cdn.jdshipin.com:8880/huya.php?id=11602058$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="王晶" group-title="明星",王晶
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11602058$LR•IPV4•2『线路2』
+https://live.ottiptv.cc/huya/11602058$LR•IPV4•3『线路2』
+#EXTINF:-1 tvg-name="王晶" group-title="明星",王晶
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602058$LR•IPV4•3『线路3』
 #EXTINF:-1 tvg-name="黄渤" group-title="明星",黄渤
-https://live.ottiptv.cc/huya/11352876$LR•IPV4•2『线路1』
+http://cdn.jdshipin.com:8880/huya.php?id=11352876$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="黄渤" group-title="明星",黄渤
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11352876$LR•IPV4•2『线路2』
+https://live.ottiptv.cc/huya/11352876$LR•IPV4•3『线路2』
+#EXTINF:-1 tvg-name="黄渤" group-title="明星",黄渤
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352876$LR•IPV4•3『线路3』
 #EXTINF:-1 tvg-name="林正英" group-title="明星",林正英
-http://zzy789.xyz/douyu1.php?id=7356023$LR•IPV4•6『线路1』
+http://zzy789.xyz/douyu1.php?id=7356023$LR•IPV4•7『线路1』
 #EXTINF:-1 tvg-name="林正英" group-title="明星",林正英
-http://epg.112114.xyz/douyu/218859$LR•IPV4•6『线路2』
+http://epg.112114.xyz/douyu/218859$LR•IPV4•7『线路2』
 #EXTINF:-1 tvg-name="林正英" group-title="明星",林正英
-https://live.ottiptv.cc/huya/11342421$LR•IPV4•6『线路3』
+http://cdn.jdshipin.com:8880/huya.php?id=11342421$LR•IPV4•7『线路3』
 #EXTINF:-1 tvg-name="林正英" group-title="明星",林正英
-http://173.208.212.130:8181/1080p/vllzy.m3u8$LR•IPV4•6『线路4』
+https://live.ottiptv.cc/huya/11342421$LR•IPV4•7『线路4』
 #EXTINF:-1 tvg-name="林正英" group-title="明星",林正英
-http://192.151.150.154/live/lblzy.m3u8$LR•IPV4•6『线路5』
+http://173.208.212.130:8181/1080p/vllzy.m3u8$LR•IPV4•7『线路5』
 #EXTINF:-1 tvg-name="林正英" group-title="明星",林正英
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lblzy$LR•IPV4•6『线路6』
+http://192.151.150.154/live/lblzy.m3u8$LR•IPV4•7『线路6』
+#EXTINF:-1 tvg-name="林正英" group-title="明星",林正英
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lblzy$LR•IPV4•7『线路7』
 #EXTINF:-1 tvg-name="甄子丹" group-title="明星",甄子丹
-https://live.ottiptv.cc/huya/11352935$LR•IPV4
+http://cdn.jdshipin.com:8880/huya.php?id=11352935$LR•IPV4•2『线路1』
+#EXTINF:-1 tvg-name="甄子丹" group-title="明星",甄子丹
+https://live.ottiptv.cc/huya/11352935$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="灾难片" group-title="主题片",灾难片
 https://live.ottiptv.cc/huya/23728647$LR•IPV4
 #EXTINF:-1 tvg-name="谍战片" group-title="主题片",谍战片
-http://live.metshop.top/huya/21059587?cdn=alicdn$LR•IPV4•2『线路1』
-#EXTINF:-1 tvg-name="谍战片" group-title="主题片",谍战片
-https://live.ottiptv.cc/huya/26355810$LR•IPV4•2『线路2』
+https://live.ottiptv.cc/huya/26355810$LR•IPV4
 #EXTINF:-1 tvg-name="战争片" group-title="主题片",战争片
 http://live.metshop.top/huya/21059574?cdn=alicdn$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="战争片" group-title="主题片",战争片
@@ -6588,7 +6622,7 @@ https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8$LR•IPV4•6『线路3』
 #EXTINF:-1 tvg-name="黄山" group-title="直播中国",黄山
 https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8$LR•IPV4•6『线路4』
 #EXTINF:-1 tvg-name="黄山" group-title="直播中国",黄山
-http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd$LR•IPV4•6『线路5』
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8$LR•IPV4•6『线路5』
 #EXTINF:-1 tvg-name="黄山" group-title="直播中国",黄山
 https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8$LR•IPV4•6『线路6』
 #EXTINF:-1 tvg-name="黄果树六角亭瀑布" group-title="直播中国",黄果树六角亭瀑布
@@ -6625,6 +6659,8 @@ https://cfss.cc/api/kg/53299.mp4$LR•IPV4
 https://cfss.cc/api/kg/34453.mp4$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="千里" group-title="一起看",千里
 https://vd4.bdstatic.com/mda-ncrggyx20mz0s134/sc/cae_h264_delogo/1648294922621791952/mda-ncrggyx20mz0s134.mp4$LR•IPV4•2『线路2』
+#EXTINF:-1 tvg-name="嫣然" group-title="一起看",嫣然
+http://live.metshop.top/huya/11601977?cdn=alicdn$LR•IPV4
 #EXTINF:-1 tvg-name="爱吃桃子的喵" group-title="一起看",爱吃桃子的喵
 https://live.ottiptv.cc/huya/18501378$LR•IPV4
 #EXTINF:-1 tvg-name="YOUNG" group-title="一起看",YOUNG
