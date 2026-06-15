@@ -1,5 +1,0 @@
-[BLOCK: 注意事项]
-
-[ALL]
-https://iptv.clun.top/list.m3u
-https://zq.clun.top/list.m3u

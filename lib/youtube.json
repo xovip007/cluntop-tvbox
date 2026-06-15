@@ -2,10 +2,6 @@
 	"recommend": "LIST:最新|推薦,官方頻道",
 	"class": [
 		{
-			"type_id": "熱門",
-			"type_name": "热门"
-		},
-		{
 			"type_id": "新聞",
 			"type_name": "新闻"
 		},
@@ -84,6 +80,10 @@
 		{
 			"type_id": "自媒體",
 			"type_name": "自媒體"
+		},
+		{
+			"type_id": "熱門",
+			"type_name": "热门"
 		},
 		{
 			"type_id": "GETTRENDS",
