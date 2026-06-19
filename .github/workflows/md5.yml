@@ -1,4 +1,4 @@
-name: Auto Update MD5
+name: Update MD5
 
 on:
   # 监听代码推送
@@ -44,9 +44,9 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           # Stage both js and jar md5 files
-          git add **/*.js.md5 **/*.jar.md5
+          git add "**/*.js.md5" "**/*.jar.md5"
 
-          if ! git diff-index --quiet HEAD; then
+          if ! git diff-index --quiet; then
             git commit -m "Update md5"
             git push
             echo "::notice::MD5 files updated and pushed."
