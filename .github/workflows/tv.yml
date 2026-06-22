@@ -46,7 +46,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        if [ -f .github/test/requirements.txt ]; then pip install -r .github/test/requirements.txt; fi
+        if [ -f .github/requirements.txt ]; then pip install -r .github/requirements.txt; fi
         pip install pandas requests
 
     - name: Run IPTV script

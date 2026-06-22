@@ -7,7 +7,6 @@ on:
     paths:
       - '**.js'
       - '**.jar'
-      - '.github/workflows/md5.yml'
 
 permissions:
   contents: write
