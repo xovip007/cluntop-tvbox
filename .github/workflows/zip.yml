@@ -3,6 +3,7 @@ name: Update zip
 permissions:
   contents: write
   actions: write
+  pull-requests: write      # 'write' access to pull requests
 
 on:
   schedule:
@@ -55,7 +56,7 @@ jobs:
         rm -rf temp_xiaosa
 
     #- name: Process Source Repo
-      #run: |
+      # run: |
         #git clone --depth 1 https://github.com/fish2018/PG.git source-repo
         
         #cd source-repo
@@ -70,21 +71,31 @@ jobs:
           #echo "PG zip extracted to target repo."
         #fi
 
-    - name: Commit and push changes
+    - name: Submit the changes
       working-directory: target-repo
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-        git add .
+        # git add .
 
-        if git diff --staged --quiet; then
-          echo "No changes to commit."
-          exit 0
-        else
-          COMMIT_MSG="Update zip"
-          git commit -m "$COMMIT_MSG"
+        # if git diff --staged --quiet; then
+          # echo "No changes to commit."
+          # exit 0
+        # else
+          # COMMIT_MSG="Update zip"
+          # git commit -m "$COMMIT_MSG"
           
-          git push origin HEAD:main
-          echo "Changes pushed successfully."
-        fi
+          # git push origin HEAD:main
+          # echo "Changes pushed successfully."
+        # fi
+        
+        git commit -a -m "Update zip"
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+        # pull: rebase   # pull --rebase before push; also accepts: merge | ff-only | true
+

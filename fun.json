@@ -651,24 +651,10 @@
 			"ext": "proxy"
 		},
 		{
-			"key": "MissAV",
-			"name": "MissAV",
-			"type": 3,
-			"api": "csp_Miss",
-			"ext": "noproxy",
-			"searchable": 1,
-			"recordable": 0,
-			"timeout": 60,
-			"style": {
-				"type": "rect",
-				"ratio": 1.78
-			}
-		},
-		{
 			"key": "Hanime",
 			"name": "Hanime",
 			"type": 3,
-			"api": "csp_Hanime",
+			"api": "./py/Hanime.py",
 			"searchable": 1,
 			"recordable": 0,
 			"timeout": 60,
@@ -1554,6 +1540,6 @@
 		"mgtv",
 		"wasu"
 	],
-	"spider": "./jar/xbpq.jar",
+	"spider": "./pg.jar",
 	"logo": "./img/pg.gif"
 }

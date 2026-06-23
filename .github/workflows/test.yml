@@ -3,6 +3,7 @@ name: Update Test
 permissions:
   contents: write
   actions: write
+  pull-requests: write      # 'write' access to pull requests
 
 on:
   # schedule:
@@ -67,20 +68,30 @@ jobs:
         source .venv/bin/activate
         python py/sinparty.py
 
-    - name: Commit and Push changes
+    - name: Submit the changes
       run: |
         export HOME=${GITHUB_WORKSPACE}
         
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         
-        if [ -n "$(git status --porcelain)" ]; then
-          echo "Changes detected, committing..."
-          git add .
-          git commit -m "Update Test"
+        # if [ -n "$(git status --porcelain)" ]; then
+          # echo "Changes detected, committing..."
+          # git add .
+          # git commit -m "Update Test"
           
-          git pull --rebase origin main
-          git push origin main
-        else
-          echo "No changes detected, skipping push."
-        fi
+          # git pull --rebase origin main
+          # git push origin main
+        # else
+          # echo "No changes detected, skipping push."
+        # fi
+        
+        git commit -a -m "Update test"
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+        # pull: rebase   # pull --rebase before push; also accepts: merge | ff-only | true
+

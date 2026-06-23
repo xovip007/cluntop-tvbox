@@ -9,7 +9,8 @@ on:
       - '**.jar'
 
 permissions:
-  contents: write
+  contents: write           # 'write' access to repository contents
+  pull-requests: write      # 'write' access to pull requests
 
 jobs:
   generate-md5:
@@ -19,6 +20,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v7
         with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
           fetch-depth: 0 # 获取完整历史，方便提交
 
       - name: Calculate & Update MD5
@@ -36,19 +38,29 @@ jobs:
             echo "Updated: $targetFile -> $currentMd5"
           done
 
-      - name: Commit & Push Changes
+      - name: Submit the changes
         run: |
           # Configure bot identity
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           # Stage both js and jar md5 files
-          git add "*.js.md5" "*.jar.md5"
+          # git add "*.js.md5" "*.jar.md5"
 
-          if ! git diff-index --quiet HEAD; then
-            git commit -m "Update md5"
-            git push
-            echo "::notice::MD5 files updated and pushed."
-          else
-            echo "::notice::No changes in MD5 values, skipping commit."
-          fi
+          # if ! git diff-index --quiet HEAD; then
+            # git commit -m "Update md5"
+            # git push
+            # echo "::notice::MD5 files updated and pushed."
+          # else
+            # echo "::notice::No changes in MD5 values, skipping commit."
+          # fi
+          
+          git commit -a -m "Update md5"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          # pull: rebase   # pull --rebase before push; also accepts: merge | ff-only | true
+

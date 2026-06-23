@@ -878,7 +878,7 @@ clone_repo() {
 show_dashboard() {
     clear 2>/dev/null || printf '\033[2J\033[H'
     echo -e "${BOLD}══════════════════════════════════════════════${NC}"
-    echo -e "${BOLD}${PURPLE}        🛠️  Git Master 控制台   ${NC}"
+    echo -e "${BOLD}${PURPLE}        🛠️  Git Master 控制台  ${NC}"
     echo -e "${BOLD}══════════════════════════════════════════════${NC}"
 
     echo -e " 📍 物理坐标: ${CYAN}$(pwd)${NC}"
@@ -917,7 +917,7 @@ show_dashboard() {
     echo -e " [11] 🧹 深度清理   (Git GC)"
     echo -e " [12] 📦 暂存管理   (Stash Save/Pop/Drop)"
     echo -e " [13] ⚡ 一键同步   (Stash→Pull→Pop→Add→Commit→Push)"
-    echo -e " [14] ↩️  撤销操作   (Undo/Reset/Restore)"
+    echo -e " [14] ↩️ 撤销操作   (Undo/Reset/Restore)"
     echo -e " [15] 🔧 身份配置   (Git Config)"
     echo -e " [16] 📥 克隆仓库   (Clone)"
     echo -e " [0]  ❌ 退出终端   (Exit)"

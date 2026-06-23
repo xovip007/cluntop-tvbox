@@ -3,6 +3,7 @@ name: Upstream Sync
 permissions:
   contents: write
   actions: write
+  pull-requests: write      # 'write' access to pull requests
 
 on:
   schedule:
