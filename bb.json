@@ -1,11 +1,11 @@
 {
 	"sites": [
 		{
-			"key": "WvMcp",
-			"name": "WvMcp",
-			"api": "csp_WvMcp",
-			"type": "3",
-			"jar": "./jar/WvSpider.jar"
+			"key": "Nostr",
+			"name": "推荐",
+			"type": 3,
+			"api": "csp_Nostr",
+			"homePage": "./nostr.html"
 		},
 		{
 			"key": "油管so",

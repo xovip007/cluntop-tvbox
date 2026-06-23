@@ -1,6 +1,13 @@
 {
 	"sites": [
 		{
+			"key": "Nostr",
+			"name": "推荐",
+			"type": 3,
+			"api": "csp_Nostr",
+			"homePage": "./nostr.html"
+		},
+		{
 			"key": "PTT",
 			"name": "PTT",
 			"type": 3,
@@ -24,13 +31,6 @@
 				"ratio": 1.33
 			},
 			"changeable": 1
-		},
-		{
-			"key": "WvMcp",
-			"name": "WvMcp",
-			"api": "csp_WvMcp",
-			"type": "3",
-			"jar": "./jar/WvSpider.jar"
 		},
 		{
 			"key": "小苹果",
