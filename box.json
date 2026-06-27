@@ -37,6 +37,12 @@
 			"api": "./js/apple.js"
 		},
 		{
+			"key": "py_枫叶影院",
+			"name": "枫叶影院",
+			"type": 3,
+			"api": "./py/枫叶影院.py"
+		},
+		{
 			"key": "1",
 			"name": "== 1 =="
 		},
@@ -638,11 +644,6 @@
 			"name": "cluntop_test",
 			"type": 0,
 			"url": "./lib/iptv_test.m3u"
-		},
-		{
-			"name": "平台直播自用",
-			"type": 0,
-			"url": "./lib/cctv.m3u"
 		},
 		{
 			"name": "歌手直播",
