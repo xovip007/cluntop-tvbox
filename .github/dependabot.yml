@@ -13,6 +13,13 @@ updates:
       timezone: "Asia/Shanghai"
       time: "09:00"
       
+    groups:
+       all-actions:
+         patterns:
+           - "*"
+
+    open-pull-requests-limit: 10
+      
   - package-ecosystem: "pip" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
