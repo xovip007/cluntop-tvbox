@@ -1074,7 +1074,7 @@
 			}
 		},
 		{
-			"host": "https://live.ottiptv.cc",
+			"host": "live.ottiptv.cc",
 			"header": {
 				"User-Agent": "okHttp/Mod-1.5.0.0",
 				"Referer": "https://live.ottiptv.cc/"
