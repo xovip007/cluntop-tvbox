@@ -405,7 +405,7 @@ if __name__ == "__main__":
         outputM3u="lib/iptv.m3u",
         outputTxt="lib/iptv.txt",
         reportFile="py/config/iptv.log",
-        autoClean=True
+        autoClean=False
     )
 
     testTemplateFile = "py/config/iptv_test.txt"
