@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1783152000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-8e29556b6a9536c9a00dbbf68d93cfed&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•4『线路1』
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1783152000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-8e29556b6a9536c9a00dbbf68d93cfed&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•5『线路1』
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
-http://198.204.240.250:82/live/cctv4k.m3u8$LR•IPV4•4『线路2』
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1783159200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-57e209841c246be03055f3dfc1194ea8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•5『线路2』
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
-http://192.151.150.154/live/cctv4k.m3u8$LR•IPV4•4『线路3』
+http://198.204.240.250:82/live/cctv4k.m3u8$LR•IPV4•5『线路3』
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
-http://173.208.212.130:8181/720p/cctv4k.m3u8$LR•IPV4•4『线路4』
+http://192.151.150.154/live/cctv4k.m3u8$LR•IPV4•5『线路4』
+#EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
+http://173.208.212.130:8181/720p/cctv4k.m3u8$LR•IPV4•5『线路5』
 #EXTINF:-1 tvg-name="象山综合" group-title="浙江频道",象山综合
 http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="象山综合" group-title="浙江频道",象山综合
@@ -3412,129 +3414,127 @@ http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f
 #EXTINF:-1 tvg-name="地理中国" group-title="💓优质个源",地理中国
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=59d30ec317666a5491b862ade858ca93$LR•IPV4•62『线路1』
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=59d30ec317666a5491b862ade858ca93$LR•IPV4•61『线路1』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d793a311d02dcf929e7f0fa24b54d25e$LR•IPV4•62『线路2』
+http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236$LR•IPV4•61『线路2』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236$LR•IPV4•62『线路3』
+http://free.cnlive.club/channel/2ae73b1a/index.m3u8?q=1752629214236$LR•IPV4•61『线路3』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/2ae73b1a/index.m3u8?q=1752629214236$LR•IPV4•62『线路4』
+http://free.cnlive.club/channel/nb957a7c/index.m3u8?q=1752629214236$LR•IPV4•61『线路4』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/nb957a7c/index.m3u8?q=1752629214236$LR•IPV4•62『线路5』
+http://free.cnlive.club/channel/n3efbe5af/index.m3u8?q=1752629214236$LR•IPV4•61『线路5』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n3efbe5af/index.m3u8?q=1752629214236$LR•IPV4•62『线路6』
+http://free.cnlive.club/channel/1404dfbd/index.m3u8?q=1752629214236$LR•IPV4•61『线路6』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/1404dfbd/index.m3u8?q=1752629214236$LR•IPV4•62『线路7』
+http://free.cnlive.club/channel/n3287f647/index.m3u8?q=1752629214236$LR•IPV4•61『线路7』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n3287f647/index.m3u8?q=1752629214236$LR•IPV4•62『线路8』
+http://free.cnlive.club/channel/n2517f7dd/index.m3u8?q=1752629214236$LR•IPV4•61『线路8』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n2517f7dd/index.m3u8?q=1752629214236$LR•IPV4•62『线路9』
+http://free.cnlive.club/channel/4b914480/index.m3u8?q=1752629214236$LR•IPV4•61『线路9』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/4b914480/index.m3u8?q=1752629214236$LR•IPV4•62『线路10』
+http://free.cnlive.club/channel/6272ba2c/index.m3u8?q=1752629214236$LR•IPV4•61『线路10』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/6272ba2c/index.m3u8?q=1752629214236$LR•IPV4•62『线路11』
+http://free.cnlive.club/channel/24a7393c/index.m3u8?q=1752629214236$LR•IPV4•61『线路11』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/24a7393c/index.m3u8?q=1752629214236$LR•IPV4•62『线路12』
+http://free.cnlive.club/channel/n75e57aab/index.m3u8?q=1752629214236$LR•IPV4•61『线路12』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n75e57aab/index.m3u8?q=1752629214236$LR•IPV4•62『线路13』
+http://free.cnlive.club/channel/n7852a99f/index.m3u8?q=1752629214236$LR•IPV4•61『线路13』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n7852a99f/index.m3u8?q=1752629214236$LR•IPV4•62『线路14』
+http://free.cnlive.club/channel/356e7ac6/index.m3u8?q=1752629214236$LR•IPV4•61『线路14』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/356e7ac6/index.m3u8?q=1752629214236$LR•IPV4•62『线路15』
+http://free.cnlive.club/channel/359a630b/index.m3u8?q=1752629214236$LR•IPV4•61『线路15』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/359a630b/index.m3u8?q=1752629214236$LR•IPV4•62『线路16』
+http://free.cnlive.club/channel/n7a0c7aec/index.m3u8?q=1752629214236$LR•IPV4•61『线路16』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n7a0c7aec/index.m3u8?q=1752629214236$LR•IPV4•62『线路17』
+http://free.cnlive.club/channel/n6582cfc7/index.m3u8?q=1752629214236$LR•IPV4•61『线路17』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n6582cfc7/index.m3u8?q=1752629214236$LR•IPV4•62『线路18』
+http://free.cnlive.club/channel/n18e58008/index.m3u8?q=1752629214236$LR•IPV4•61『线路18』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n18e58008/index.m3u8?q=1752629214236$LR•IPV4•62『线路19』
+http://free.cnlive.club/channel/6c975854/index.m3u8?q=1752629214236$LR•IPV4•61『线路19』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/6c975854/index.m3u8?q=1752629214236$LR•IPV4•62『线路20』
+http://free.cnlive.club/channel/n28af27dd/index.m3u8?q=1752629214236$LR•IPV4•61『线路20』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/n28af27dd/index.m3u8?q=1752629214236$LR•IPV4•62『线路21』
+http://free.cnlive.club/channel/264e2d58/index.m3u8?q=1752629214236$LR•IPV4•61『线路21』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/264e2d58/index.m3u8?q=1752629214236$LR•IPV4•62『线路22』
+http://free.cnlive.club/channel/2631a9ae/index.m3u8?q=1752629214236$LR•IPV4•61『线路22』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://free.cnlive.club/channel/2631a9ae/index.m3u8?q=1752629214236$LR•IPV4•62『线路23』
+https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8$LR•IPV4•61『线路23』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8$LR•IPV4•62『线路24』
+http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8$LR•IPV4•61『线路24』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8$LR•IPV4•62『线路25』
+http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037$LR•IPV4•61『线路25』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037$LR•IPV4•62『线路26』
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$LR•IPV4•61『线路26』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$LR•IPV4•62『线路27』
+http://120.55.49.231:3095/rtp/233.50.202.25:5140$LR•IPV4•61『线路27』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://120.55.49.231:3095/rtp/233.50.202.25:5140$LR•IPV4•62『线路28』
+https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8$LR•IPV4•61『线路28』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8$LR•IPV4•62『线路29』
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8$LR•IPV4•61『线路29』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8$LR•IPV4•62『线路30』
+http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/da805d8d77a24db8aaa62328eb6d874e/index.m3u8$LR•IPV4•61『线路30』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/da805d8d77a24db8aaa62328eb6d874e/index.m3u8$LR•IPV4•62『线路31』
+https://live.chinacert.cftest5.cn/cnmg/live/609006487$LR•IPV4•61『线路31』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://live.chinacert.cftest5.cn/cnmg/live/609006487$LR•IPV4•62『线路32』
+http://223.167.209.88:1234/609006487$LR•IPV4•61『线路32』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://223.167.209.88:1234/609006487$LR•IPV4•62『线路33』
+http://fn.gcl.de5.net:5908/gsh950428/609006487$LR•IPV4•61『线路33』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://fn.gcl.de5.net:5908/gsh950428/609006487$LR•IPV4•62『线路34』
+http://wfenf.x3322.net:7788/609006487$LR•IPV4•61『线路34』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://wfenf.x3322.net:7788/609006487$LR•IPV4•62『线路35』
+http://112.194.199.151:7788/609006487$LR•IPV4•61『线路35』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://112.194.199.151:7788/609006487$LR•IPV4•62『线路36』
+http://180.119.6.123:3000/609006487$LR•IPV4•61『线路36』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://180.119.6.123:3000/609006487$LR•IPV4•62『线路37』
+http://60.168.108.94:1234/609006487$LR•IPV4•61『线路37』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://60.168.108.94:1234/609006487$LR•IPV4•62『线路38』
+http://183.162.105.46:5008/609006487$LR•IPV4•61『线路38』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://183.162.105.46:5008/609006487$LR•IPV4•62『线路39』
+http://101.206.68.190:3000/609006487$LR•IPV4•61『线路39』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://101.206.68.190:3000/609006487$LR•IPV4•62『线路40』
+http://117.15.157.81:1234/609006487$LR•IPV4•61『线路40』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://117.15.157.81:1234/609006487$LR•IPV4•62『线路41』
+http://17752995.xyz:51111/609006487$LR•IPV4•61『线路41』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://17752995.xyz:51111/609006487$LR•IPV4•62『线路42』
+http://42.193.195.163:3000/609006487$LR•IPV4•61『线路42』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://42.193.195.163:3000/609006487$LR•IPV4•62『线路43』
+http://36.104.221.222:7788/609006487$LR•IPV4•61『线路43』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://36.104.221.222:7788/609006487$LR•IPV4•62『线路44』
+http://120.245.84.95:1234/609006487$LR•IPV4•61『线路44』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://120.245.84.95:1234/609006487$LR•IPV4•62『线路45』
+http://120.4.126.153:1234/609006487$LR•IPV4•61『线路45』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://120.4.126.153:1234/609006487$LR•IPV4•62『线路46』
+http://47.119.24.76:59093/609006487$LR•IPV4•61『线路46』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://47.119.24.76:59093/609006487$LR•IPV4•62『线路47』
+http://222.134.19.49:8090/609006487$LR•IPV4•61『线路47』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://222.134.19.49:8090/609006487$LR•IPV4•62『线路48』
+http://139.155.89.87:1000/609006487$LR•IPV4•61『线路48』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://139.155.89.87:1000/609006487$LR•IPV4•62『线路49』
+https://ali-xwl.cztv.com/live/channel121080Plxw.m3u8$LR•IPV4•61『线路49』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://ali-xwl.cztv.com/live/channel121080Plxw.m3u8$LR•IPV4•62『线路50』
+p3p://167.114.175.6:55331/623baf7a0004e5d79c2047cd46107be2$LR•IPV4•61『线路50』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-p3p://167.114.175.6:55331/623baf7a0004e5d79c2047cd46107be2$LR•IPV4•62『线路51』
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8$LR•IPV4•61『线路51』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8$LR•IPV4•62『线路52』
+https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8$LR•IPV4•61『线路52』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8$LR•IPV4•62『线路53』
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8$LR•IPV4•61『线路53』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8$LR•IPV4•62『线路54』
+p3p://167.114.175.6:55331/62c9a44500000cd3c69dc74b77c62c82$LR•IPV4•61『线路54』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-p3p://167.114.175.6:55331/62c9a44500000cd3c69dc74b77c62c82$LR•IPV4•62『线路55』
+http://108.181.20.255:27347/livehttpplay?channel_id=23081$LR•IPV4•61『线路55』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://108.181.20.255:27347/livehttpplay?channel_id=23081$LR•IPV4•62『线路56』
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8$LR•IPV4•61『线路56』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8$LR•IPV4•62『线路57』
+p3p://167.114.175.6:55331/5fe16de700083ba97787607e74d90cb5$LR•IPV4•61『线路57』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-p3p://167.114.175.6:55331/5fe16de700083ba97787607e74d90cb5$LR•IPV4•62『线路58』
+p3p://167.114.175.6:55331/644518fd0002d5953f21bedc56b6465f$LR•IPV4•61『线路58』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-p3p://167.114.175.6:55331/644518fd0002d5953f21bedc56b6465f$LR•IPV4•62『线路59』
+http://108.181.20.255:27347/livehttpplay?channel_id=23097$LR•IPV4•61『线路59』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-http://108.181.20.255:27347/livehttpplay?channel_id=23097$LR•IPV4•62『线路60』
+https://i.mjh.nz/.r/sky-hgtv.m3u8$LR•IPV4•61『线路60』
 #EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-https://i.mjh.nz/.r/sky-hgtv.m3u8$LR•IPV4•62『线路61』
-#EXTINF:-1 tvg-name="纪录" group-title="💓优质个源",纪录
-p3p://167.114.175.6:55331/61e4f963000c710c55474e4e1e2273d9$LR•IPV4•62『线路62』
+p3p://167.114.175.6:55331/61e4f963000c710c55474e4e1e2273d9$LR•IPV4•61『线路61』
 #EXTINF:-1 tvg-name="樱桃小丸子剧" group-title="💓儿童专享",樱桃小丸子剧
 http://103.193.151.146/huya.php?id=11342394$LR•IPV4
 #EXTINF:-1 tvg-name="东森幼幼" group-title="💓儿童专享",东森幼幼
