@@ -11,15 +11,16 @@ on:
 
 env:
   DEPLOY_REF: ${{ github.event.inputs.deploy_branch || github.ref }}
-  UPLOAD_PATH: "."
+  # UPLOAD_PATH: "."
   TZ: Asia/Shanghai
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: write
+  actions: write
   pages: write
   id-token: write
-  # pull-requests: write      # 'write' access to pull requests
+  pull-requests: write      # 'write' access to pull requests
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
@@ -49,33 +50,17 @@ jobs:
       - name: 🔄 Auto Commit Timestamp
         if: github.event_name == 'schedule'
         run: |
-          cd ${{ env.UPLOAD_PATH }}
-          echo "Last deployment run at: $(date)" > last_run.txt
+          # cd ${{ env.UPLOAD_PATH }}
+          # echo "Last deployment run at: $(date)" > last_run.txt
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add last_run.txt
+          # git add last_run.txt
           if ! git diff-index --quiet HEAD; then
             git commit -m "🤖 Auto-update: Scheduled deployment [skip ci]"
             git push
             echo "::notice::✅ 已自动提交更新时间戳"
           else
             echo "::notice::⚠️ 无文件变更，跳过提交"
-          fi
-
-      - name: Verify & Generate CNAME
-        run: |
-          echo "clun.top" > ${{ env.UPLOAD_PATH }}/CNAME
-          FILE_COUNT=$(find ${{ env.UPLOAD_PATH }} -type f | wc -l)
-          SIZE=$(du -sh ${{ env.UPLOAD_PATH }} | cut -f1)
-          
-          echo "### 📦 部署准备就绪" >> $GITHUB_STEP_SUMMARY
-          echo "- **分支**: \`${{ env.DEPLOY_REF }}\`" >> $GITHUB_STEP_SUMMARY
-          echo "- **文件数量**: $FILE_COUNT" >> $GITHUB_STEP_SUMMARY
-          echo "- **总大小**: $SIZE" >> $GITHUB_STEP_SUMMARY
-          
-          if [ "$FILE_COUNT" -eq 0 ]; then
-             echo "::error::❌ 目录下没有文件，终止部署！"
-             exit 1
           fi
 
       - name: Setup Pages
@@ -85,16 +70,12 @@ jobs:
         uses: actions/upload-pages-artifact@v5
         with:
           # Upload entire repository
-          path: ${{ env.UPLOAD_PATH }}
+          # path: ${{ env.UPLOAD_PATH }}
           retention-days: 1
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
-
-      - name: Deployment Success Info
-        if: success()
-        run: |
-          echo "::notice title=部署成功::✅ 您的站点已上线！"
-          echo "### 🚀 部署成功!" >> $GITHUB_STEP_SUMMARY
-          echo "访问地址: [${{ steps.deployment.outputs.page_url }}](${{ steps.deployment.outputs.page_url }})" >> $GITHUB_STEP_SUMMARY
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          # pull: rebase   # pull --rebase before push; also accepts: merge | ff-only | true
