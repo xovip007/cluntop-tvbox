@@ -47,7 +47,8 @@
 			"key": "py_枫叶影院",
 			"name": "枫叶影院",
 			"type": 3,
-			"api": "./py/枫叶影院.py"
+			"api": "./py/枫叶影院.py",
+			"ext": "noproxy"
 		},
 		{
 			"key": "1",
@@ -78,20 +79,6 @@
 			"ext": "./js/s/西瓜.json"
 		},
 		{
-			"key": "七点影视",
-			"name": "七点影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./js/s/7点.json"
-		},
-		{
-			"key": "穷电影",
-			"name": "穷电影",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./js/s/穷电影.json"
-		},
-		{
 			"key": "狐狸君",
 			"name": "狐狸君",
 			"type": 3,
@@ -108,31 +95,6 @@
 		{
 			"key": "2",
 			"name": "--- 2 ---"
-		},
-		{
-			"key": "白嫖2",
-			"name": "️白嫖影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/s/白嫖1.json"
-		},
-		{
-			"key": "白嫖3",
-			"name": "白嫖影视",
-			"type": 3,
-			"ua": "okhttp/3.15",
-			"api": "csp_XBPQ",
-			"ext": "./js/s/白嫖2.json"
-		},
-		{
-			"key": "白嫖4",
-			"name": "白嫖影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./js/s/白嫖3.json"
 		},
 		{
 			"key": "3",

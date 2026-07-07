@@ -15,6 +15,13 @@
 			"homePage": "./nostr.html"
 		},
 		{
+			"key": "py_51吃瓜",
+			"name": "51吃瓜",
+			"type": 3,
+			"api": "./py/51吸瓜.py",
+			"ext": ""
+		},
+		{
 			"key": "Jable",
 			"name": "Jable",
 			"jar": "./jar/gm.jar",
@@ -485,17 +492,6 @@
 			"api": "https://raw.githubusercontent.com/fish2018/lib/main/js/dr_py/js/sebo.js",
 			"searchable": 1,
 			"changeable": 0
-		},
-		{
-			"key": "py_色播聚合",
-			"name": "py_色播聚合(T3)",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"api": "./aowuplugin/py_色播聚合.py",
-			"order_num": 5,
-			"ext": ""
 		},
 		{
 			"key": "XMVideo",
