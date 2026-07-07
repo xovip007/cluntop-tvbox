@@ -1,15 +1,16 @@
 {
 	"sites": [
 		{
-			"key": "聚合短剧",
-			"name": "聚合短剧",
+			"key": "荐片",
+			"name": "荐片",
 			"type": 3,
-			"api": "./js/聚合短剧.js",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
+			"api": "./js/荐片.js"
+		},
+		{
+			"key": "apple",
+			"name": "apple",
+			"type": 3,
+			"api": "./js/apple.js"
 		},
 		{
 			"key": "Nostr",
@@ -32,22 +33,28 @@
 			"api": "./js/金牌影院.js"
 		},
 		{
-			"key": "荐片",
-			"name": "荐片",
-			"type": 3,
-			"api": "./js/荐片.js"
-		},
-		{
-			"key": "apple",
-			"name": "apple",
-			"type": 3,
-			"api": "./js/apple.js"
-		},
-		{
 			"key": "py_枫叶影院",
 			"name": "枫叶影院",
 			"type": 3,
 			"api": "./py/枫叶影院.py",
+			"ext": "noproxy"
+		},
+		{
+			"key": "聚合短剧",
+			"name": "聚合短剧",
+			"type": 3,
+			"api": "./js/聚合短剧.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
+		{
+			"key": "py_红果短剧",
+			"name": "红果短剧",
+			"type": 3,
+			"api": "./py/红果短剧.py",
 			"ext": "noproxy"
 		},
 		{
