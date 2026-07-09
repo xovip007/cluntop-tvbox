@@ -77,5 +77,5 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
-        # pull: rebase   # pull --rebase before push; also accepts: merge | ff-only | true
+        pull: rebase   # pull --rebase before push; also accepts: merge | ff-only | true
 
